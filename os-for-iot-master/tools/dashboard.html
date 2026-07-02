@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IoT OS Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.socket.io/4.0.0/socket.io.min.js"></script>
+    <style>
+        body { font-family: Arial, sans-serif; background: #2b2b2b; color: white; margin: 0; padding: 20px; }
+        .container { max-width: 1200px; margin: 0 auto; }
+        .header { text-align: center; margin-bottom: 20px; }
+        .stats { display: flex; justify-content: space-around; margin-bottom: 20px; }
+        .stat { background: #34495e; padding: 20px; border-radius: 8px; text-align: center; }
+        .chart-container { background: #34495e; padding: 20px; border-radius: 8px; margin-bottom: 20px; }
+        .logs { background: #34495e; padding: 20px; border-radius: 8px; height: 300px; overflow-y: auto; }
+        pre { margin: 0; white-space: pre-wrap; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>IoT OS Dashboard</h1>
+            <div id="status">Status: <span id="status-text">WAITING</span></div>
+        </div>
+        <div class="stats">
+            <div class="stat">
+                <h3>Current Temperature</h3>
+                <div id="current-temp">--°C</div>
+            </div>
+            <div class="stat">
+                <h3>Min Temperature</h3>
+                <div id="min-temp">--°C</div>
+            </div>
+            <div class="stat">
+                <h3>Avg Temperature</h3>
+                <div id="avg-temp">--°C</div>
+            </div>
+            <div class="stat">
+                <h3>Max Temperature</h3>
+                <div id="max-temp">--°C</div>
+            </div>
+        </div>
+        <div class="chart-container">
+            <canvas id="tempChart"></canvas>
+        </div>
+        <div class="logs">
+            <h3>Logs</h3>
+            <pre id="log-output"></pre>
+        </div>
+    </div>
+
+    <script>
+        const tempData = [];
+        const ctx = document.getElementById('tempChart').getContext('2d');
+        const chart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: [],
+                datasets: [{
+                    label: 'Temperature (°C)',
+                    data: tempData,
+                    borderColor: '#1abc9c',
+                    backgroundColor: 'rgba(26, 188, 156, 0.2)',
+                    fill: true,
+                }]
+            },
+            options: {
+                responsive: true,
+                scales: {
+                    x: { title: { display: true, text: 'Time' } },
+                    y: { title: { display: true, text: 'Temperature (°C)' } }
+                }
+            }
+        });
+
+        function updateChart() {
+            chart.data.labels = tempData.map((_, i) => i + 1);
+            chart.update();
+        }
+
+        // Real-time data from backend via Socket.IO
+        const socket = io();
+        socket.on('data', (data) => {
+            if (data.line) {
+                document.getElementById('log-output').textContent += data.line + '\n';
+            }
+            if (data.temp !== null && data.temp !== undefined) {
+                tempData.push(data.temp);
+                if (tempData.length > 50) tempData.shift();
+                document.getElementById('current-temp').textContent = data.temp + '°C';
+                document.getElementById('min-temp').textContent = Math.min(...tempData) + '°C';
+                document.getElementById('avg-temp').textContent = (tempData.reduce((a, b) => a + b, 0) / tempData.length).toFixed(1) + '°C';
+                document.getElementById('max-temp').textContent = Math.max(...tempData) + '°C';
+                updateChart();
+            }
+            if (data.status) {
+                document.getElementById('status-text').textContent = data.status;
+            }
+        });
+    </script>
+</body>
+</html>
