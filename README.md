@@ -1,8 +1,6 @@
 ollows a **modular design** to simplify debugging and future upgrades
 - Clear separation of concerns between system components
-- Emphasis on correctness, efficiency, and readability
-- Codeaintain history
-
+- Emph
 ---
 
 ## 🚧 Challenges Faced
