@@ -7,7 +7,7 @@ The goal of the project is to demonstrate **core OS concepts** through practical
 The project emphasizes:
 - Process coordination
 - System-level thinking
-- Modular design
+- Modu
 - Collaborative development using GitHub
 
 ---
