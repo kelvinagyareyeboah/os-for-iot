@@ -4,8 +4,7 @@ The goal of the project is to demonstrate **core OS concepts** through practical
 
 The project emp
 - Process coordination
-- System-level thinking
-- Modu
+- System-level t
 - Collaborative development using GitHub
 
 ---
