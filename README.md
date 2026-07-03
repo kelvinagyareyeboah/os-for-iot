@@ -1,5 +1,4 @@
-
-- Collaborative develop
+evelop
 
 - Apply fundamental **Operating System concepts** in 
 - Design and implement a functional system architecture
