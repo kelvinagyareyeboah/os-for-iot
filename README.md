@@ -1,5 +1,4 @@
-
-- Resource allocation  
+on  
 - System design and modularization  
 - Input/output handling  
 - Synchronization and coordination  
