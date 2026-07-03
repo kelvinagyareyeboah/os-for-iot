@@ -1,6 +1,6 @@
 gn and modularization  
 -utput handling  
-- Synchronization and c
+- Synchro
 - Versio and co
 
 ## 🏗️ System Architecture
