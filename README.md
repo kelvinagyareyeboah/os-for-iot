@@ -1,4 +1,4 @@
-# Group 44 g Systems Project
+g Systems Project
 
 ## 📌 Project Overview
 This project is an **Operating Systems–based system** developed as part of an academgnment.  
