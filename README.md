@@ -3,9 +3,7 @@ This pre project is to demonstrate **core OS concepts** through practical implem
 
 The project emp
 - Process coo
-- Collaborative development using GitHub
-
----
+- Collaborative development usin
 
 - Apply fundamental **Operating System concepts** in a real project
 - Design and implement a functional system architecture
