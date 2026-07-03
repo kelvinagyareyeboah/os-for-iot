@@ -5,7 +5,7 @@
 - The system follows a **modular design** to simplify debugging and future upgrades
 - Clear separation of concerns between system components
 - Emphasis on correctness, efficiency, and readability
-- Code changes were tt commits to maintain history
+- Codeaintain history
 
 ---
 
