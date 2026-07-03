@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 Key Concepts Covered
+## 🧠 Key Con
 - Process management  
 - Resource allocation  
 - System design and modularization  
