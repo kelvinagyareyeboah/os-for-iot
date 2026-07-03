@@ -5,7 +5,7 @@ designed to be **independent, reusable, and easy to maintain**.
 ## ⚙️ Technologies & Tools Used
 - **Programming Language:** (ae report)
 - **Development:** (sed)
-- **Version Control:** Git & GitHub
+- **Versi
 - **Documentation:** Markdown
 - **Operating Sysling, resource management, synchronization
 
