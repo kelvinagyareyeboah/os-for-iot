@@ -3,7 +3,7 @@
 - Managing version conflicts during collaboration  
 
 **Soluti
-- Proper task division
+- Proper 
 - Regular communication
 - Use of GitHub for version control and conflict resolution
 
