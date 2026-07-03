@@ -1,4 +1,4 @@
-ew
+
 This project is an **Operating Systems–based system** developed as part of an academgnment.  
 The goal of the project is to demonstrate **core OS concepts** through practical implementation, teamwork, and version-controlled development.
 
