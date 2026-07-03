@@ -1,8 +1,5 @@
 
-Thflow:**
-1. Input acquisition  
-2. Processing and coordination  
-3. Output generation  
+=  
 4. System control and monitoring  
 
 Each component is designed to be **independent, reusable, and easy to maintain**.
