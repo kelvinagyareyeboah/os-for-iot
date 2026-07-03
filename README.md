@@ -2,9 +2,7 @@ on
 - System design and modularization  
 -utput handling  
 - Synchronization and coordination  
-- Version control and collaboration  
-
----
+- Version control and co
 
 ## 🏗️ System Architecture
 The system is structured into logical components that interact to achieve the desired functionality.
