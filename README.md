@@ -1,6 +1,4 @@
-
-=  
-4. System control and monitoring  
+toring  
 
 Each component is designed to be **independent, reusable, and easy to maintain**.
 
