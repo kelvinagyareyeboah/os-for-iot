@@ -1,6 +1,4 @@
-ent and present the system clearly for aluation
-
----
+ent and present the syst
 
 ## 🧠 Key Con
 - Process management  
