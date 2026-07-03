@@ -1,6 +1,6 @@
 on  
 - System design and modularization  
-- Input/output handling  
+-utput handling  
 - Synchronization and coordination  
 - Version control and collaboration  
 
