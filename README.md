@@ -6,7 +6,7 @@ designed to be **independent, reusable, and easy to maintain**.
 - **Programming Language:** (ae report)
 - **Development:** (sed)
 - **Versi
-- **Documentation:** Markdown
+- **Documentatio
 - **Operating Sysling, resource management, synchronization
 
 ---
