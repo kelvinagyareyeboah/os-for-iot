@@ -1,5 +1,4 @@
-
-Each component is designed to be **independent, reusable, and easy to maintain**.
+designed to be **independent, reusable, and easy to maintain**.
 
 ---
 
