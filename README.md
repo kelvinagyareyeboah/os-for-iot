@@ -1,5 +1,4 @@
-ic  
-- Managing version conflicts during collaboration  
+uring collaboration  
 
 **Soluti
 - Proper 
