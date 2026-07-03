@@ -1,5 +1,4 @@
-ly fundamental **Operating System concepts** in 
-- Design and implement a functional system architecture
+nctional system architecture
 - Practice **collaborative software development** using Git and GitHub
 - Document and present the system clearly for aluation
 
