@@ -1,5 +1,4 @@
-ent and present the syst
-
+nt and present
 ## 🧠 Key Con
 - Process management  
 - Resource allocation  
