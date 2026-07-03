@@ -1,6 +1,4 @@
-evelop
-
-- Apply fundamental **Operating System concepts** in 
+ly fundamental **Operating System concepts** in 
 - Design and implement a functional system architecture
 - Practice **collaborative software development** using Git and GitHub
 - Document and present the system clearly for aluation
