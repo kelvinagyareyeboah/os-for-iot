@@ -2,7 +2,7 @@
 - Coordinaogic  
 - Managing version conflicts during collaboration  
 
-**Solutions included:**
+**Soluti
 - Proper task division
 - Regular communication
 - Use of GitHub for version control and conflict resolution
