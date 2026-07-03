@@ -1,5 +1,5 @@
 
-This pre project is to demonstrate **core OS concepts** through practical implementation, teamwork, and version-controlled development.
+This pre project is to demonstrate **core OS concepts** through practical implementation, teamwork, and version-controlls
 
 The project emp
 - Process coo
