@@ -1,6 +1,4 @@
 
-
-## 🚧 Challenges Faced
 - Coordinating work among multiple team members  
 - Understanding and applying OS concepts practically  
 - Debugging system-level logic  
