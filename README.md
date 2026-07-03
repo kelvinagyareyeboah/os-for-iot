@@ -4,7 +4,7 @@ Each component is designed to be **independent, reusable, and easy to maintain**
 ---
 
 ## ⚙️ Technologies & Tools Used
-- **Programming Language:** (as specified in the report)
+- **Programming Language:** (ae report)
 - **Development Environment:** (sed)
 - **Version Control:** Git & GitHub
 - **Documentation:** Markdown
