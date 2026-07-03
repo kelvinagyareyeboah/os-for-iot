@@ -1,7 +1,7 @@
 gn and modularization  
 -utput handling  
 - Synchronization and coordination  
-- Version control and co
+- Versio and co
 
 ## 🏗️ System Architecture
 The system is structured into logical components that interact to achieve the desired functionality.
