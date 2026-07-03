@@ -1,4 +1,4 @@
-gn and modularization  
+
 -utput handling  
 - Synchro
 - Versio and co
