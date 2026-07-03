@@ -1,5 +1,4 @@
-nctional systative software development** using Git and GitHub
-- Document and present the system clearly for aluation
+ent and present the system clearly for aluation
 
 ---
 
