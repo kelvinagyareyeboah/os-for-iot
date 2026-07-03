@@ -1,6 +1,6 @@
 gn and modularization  
 -utput handling  
-- Synchronization and coordination  
+- Synchronization and c
 - Versio and co
 
 ## 🏗️ System Architecture
