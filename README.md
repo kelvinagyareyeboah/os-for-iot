@@ -1,8 +1,4 @@
- Toolse
----
-
-## 🛠️ Implementation Details
-- The system follows a **modular design** to simplify debugging and future upgrades
+ollows a **modular design** to simplify debugging and future upgrades
 - Clear separation of concerns between system components
 - Emphasis on correctness, efficiency, and readability
 - Codeaintain history
