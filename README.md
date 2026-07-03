@@ -1,8 +1,7 @@
 
 This pre project is to demonstrate **core OS concepts** through practical implementation, teamwork, and version-controlls
 
-The project emp
-- Process coo
+The project em
 - Collaborative development usin
 
 - Apply fundamental **Operating System concepts** in a real project
