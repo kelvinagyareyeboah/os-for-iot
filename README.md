@@ -1,5 +1,4 @@
-on
-- Process m
+
 - Resource allocation  
 - System design and modularization  
 - Input/output handling  
