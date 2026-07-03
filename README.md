@@ -1,5 +1,4 @@
-on  
-- System design and modularization  
+gn and modularization  
 -utput handling  
 - Synchronization and coordination  
 - Version control and co
