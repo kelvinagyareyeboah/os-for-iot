@@ -1,4 +1,4 @@
-ollows a **modular design** to simplify debugging and future upgrades
+implify debugging and future upgrades
 - Clear separation of concerns between system components
 - Emph
 ---
