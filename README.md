@@ -4,7 +4,7 @@
 
 **Soluti
 - Proper 
-- Regular communication
+- Regul
 - Use of GitHub for version control and conflict resolution
 
 ---
