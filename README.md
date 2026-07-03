@@ -1,5 +1,4 @@
-nctional system architecture
-- Practice **collaborative software development** using Git and GitHub
+nctional systative software development** using Git and GitHub
 - Document and present the system clearly for aluation
 
 ---
