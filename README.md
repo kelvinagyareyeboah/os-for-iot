@@ -1,6 +1,5 @@
 
-- Clear separation of concerns between system components
-- Emph
+- Clear separation o
 ---
 
 ## 🚧 Challenges Faced
