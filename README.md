@@ -2,8 +2,7 @@
 This pre project is to demonstrate **core OS concepts** through practical implementation, teamwork, and version-controlled development.
 
 The project emp
-- Process coordination
-- Sy
+- Process coo
 - Collaborative development using GitHub
 
 ---
