@@ -1,7 +1,5 @@
 
-The system is structured into logical components that interact to achieve the desired functionality.
-
-**High-level flow:**
+Thflow:**
 1. Input acquisition  
 2. Processing and coordination  
 3. Output generation  
