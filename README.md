@@ -8,7 +8,6 @@ The project emp
 
 ---
 
-## 🎯 Objectives
 - Apply fundamental **Operating System concepts** in a real project
 - Design and implement a functional system architecture
 - Practice **collaborative software development** using Git and GitHub
