@@ -1,7 +1,4 @@
- Tools Used
-- **Programming Language:** (ae report
-- **Documentatio
-- **Operating Sysling, resource manage
+ Toolse
 ---
 
 ## 🛠️ Implementation Details
