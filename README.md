@@ -1,5 +1,4 @@
 
-The project em
 - Collaborative develop
 
 - Apply fundamental **Operating System concepts** in a real project
