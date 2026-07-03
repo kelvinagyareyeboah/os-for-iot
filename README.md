@@ -1,5 +1,4 @@
-
-- Coordinaogic  
+ic  
 - Managing version conflicts during collaboration  
 
 **Soluti
