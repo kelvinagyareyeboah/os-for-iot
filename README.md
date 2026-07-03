@@ -1,8 +1,7 @@
 designed to be **independent, reusable, and easy to
 
 ## ⚙️ Technologies & Tools Used
-- **Programming Language:** (ae report)
-- **Development:
+- **Programming Language:** (ae report
 - **Documentatio
 - **Operating Sysling, resource management, synchronization
 
