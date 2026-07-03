@@ -1,6 +1,4 @@
 
--utput handling  
-- Synchro
 - Versio and co
 
 ## 🏗️ System Architecture
