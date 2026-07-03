@@ -1,6 +1,4 @@
 
-- Clear separation o
----
 
 ## 🚧 Challenges Faced
 - Coordinating work among multiple team members  
