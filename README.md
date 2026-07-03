@@ -1,5 +1,4 @@
-nt and present
-## 🧠 Key Con
+on
 - Process m
 - Resource allocation  
 - System design and modularization  
