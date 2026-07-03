@@ -1,6 +1,4 @@
-designed to be **independent, reusable, and easy to maintain**.
-
----
+designed to be **independent, reusable, and easy to
 
 ## ⚙️ Technologies & Tools Used
 - **Programming Language:** (ae report)
