@@ -1,5 +1,4 @@
-
-This pre project is to demonstrate **core OS concepts** through practical implementation, teamwork, and version-controlls
+ pre project is to demonstrate **core OS concepts** through practical implementation, teamwork, and version-controlls
 
 The project em
 - Collaborative develop
