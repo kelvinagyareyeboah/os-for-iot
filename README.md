@@ -7,7 +7,7 @@ designed to be **independent, reusable, and easy to maintain**.
 - **Development:** (sed)
 - **Version Control:** Git & GitHub
 - **Documentation:** Markdown
-- **Operating System Concepts:** Scheduling, resource management, synchronization
+- **Operating Sysling, resource management, synchronization
 
 ---
 
