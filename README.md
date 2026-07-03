@@ -1,5 +1,4 @@
 
-## 🏗️ System Architecture
 The system is structured into logical components that interact to achieve the desired functionality.
 
 **High-level flow:**
