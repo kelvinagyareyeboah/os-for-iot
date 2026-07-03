@@ -2,7 +2,7 @@
 This pre project is to demonstrate **core OS concepts** through practical implementation, teamwork, and version-controlls
 
 The project em
-- Collaborative development usin
+- Collaborative develop
 
 - Apply fundamental **Operating System concepts** in a real project
 - Design and implement a functional system architecture
