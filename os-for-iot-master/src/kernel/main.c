@@ -3,9 +3,7 @@
             for (int i = 0; prefix[i]; ++i) buf[idx++] = prefix[i]; // Copy prefix
             for (int i = 0; temp_str[i]; ++i) buf[idx++] = temp_str[i]; // Copy temperature
             buf[idx++] = 'C'; // Add unit
-            const char* mid = ", Humidity: ";
-            for (int i = 0; mid[i]; ++i) buf[idx++] = mid[i]; // Copy middle text
-            for (int i = 0; hum_str[i]; ++i) buf[idx++] = hum_str[i]; // Copy humidity
+            const char* mid = ", Hu            for (int i = 0; hum_str[i]; ++i) buf[idx++] = hum_str[i]; // Copy humidity
             buf[idx++] = '%'; // Add unit
             buf[idx++] = '\n'; // New line
             buf[idx] = '\0'; // Null terminator
