@@ -1,5 +1,4 @@
-
-             No new data. Entering low-power mode (WFI sim)...\n");
+wer mode (WFI sim)...\n");
 
             // Simulate Wait For Interrupt (WFI) with timer
             unsigned long start = get_system_timer();
