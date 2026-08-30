@@ -1,4 +1,4 @@
-ing: Simulate low-powe
+
              No new data. Entering low-power mode (WFI sim)...\n");
 
             // Simulate Wait For Interrupt (WFI) with timer
