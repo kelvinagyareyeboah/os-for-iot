@@ -1,8 +1,5 @@
 itir(void)
 {
-    uart_puts("SENSOR RUNNING\n");
-    int data_available_counter = 0; // Counter for simulated readings
-
     while (1) // Infinite task loop
     {
         // Simulate sensor readings: 10 readings, then sleep
