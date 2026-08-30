@@ -1,7 +1,4 @@
-Response: ACK with data\n");
 
-
-void kernel_main(void)
 {
     // Initialize hardware and kernel subsystems
     uart_init();    // Initialize UART for serial output
