@@ -1,8 +1,6 @@
 
 
 #include ""
-#include "drivers/irq.h"
-#include "mm/mem.h"
 #include "kernel/sched.h"
 #include <stdint.h>
 
