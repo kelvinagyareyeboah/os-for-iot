@@ -1,6 +1,5 @@
 
-
-            uart_puts("   [PWR] Waking up from low-power mode...\n");
+p from low-power mode...\n");
             data_available_counter = 0; // Reset counter
         }
 
