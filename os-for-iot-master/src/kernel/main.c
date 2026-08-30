@@ -1,6 +1,4 @@
 
-
-        uart_puts("   [MQTT] Publishing sensor data to broker...\n");
         uart_puts("   [MQTT] Packet: {\"temp\":");
         // Output temperature as two digits
         uart_send('0' + (simulated_temp / 10)); // Tens digit
