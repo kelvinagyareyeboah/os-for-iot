@@ -1,11 +1,4 @@
-
-
-    // Print sySimulated Demo\n");
-    uart_puts("  Features: Multitasking, Power Mgmt, IoT Protocols\n");
-    uart_puts("  Optimized for Low Resources\n");
-    uart_puts("=========================================\n");
-
-    // Display initial memory usage
+ usage
     uart_puts("   [MEM] Heap used: ");
     uint32_t mem_used = get_heap_used(); // Get heap usage in bytes
     // Display kilobytes (simplified - shows 0-9 KB range)
