@@ -5,13 +5,7 @@ ensor reading (same logic as task_sensor)
 
             // Format and output sensor data
             char buf[64];
-            char temp_str[12], hum_str[12];
-            itoa(simulated_temp, temp_str);
-            itoa(simulated_humidity, hum_str);
-            
-            int idx = 0;
-            const char* prefix = "[SENSOR] Temp: ";
-            for (int i = 0; prefix[i]; ++i) buf[idx++] = prefix[i];
+            char te++] = prefix[i];
             for (int i = 0; temp_str[i]; ++i) buf[idx++] = temp_str[i];
             buf[idx++] = 'C';
             const char* mid = ", Humidity: ";
