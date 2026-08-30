@@ -1,6 +1,5 @@
 
-            uart_putirm task is running
-            uart_puts("[DEBUG] Senn");
+            uart_puti] Senn");
 
             // Process: Check thresholds
             if (simulated_temp > 30) {
