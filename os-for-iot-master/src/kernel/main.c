@@ -1,5 +1,4 @@
-tor)
-    int i = 0, j = 0; // i: buffer index, j: string index
+uffer index, j: string index
     
     // Handle zero case separately
     if (value == 0) {
