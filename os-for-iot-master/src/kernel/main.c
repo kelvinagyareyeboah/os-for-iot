@@ -1,5 +1,4 @@
-uffer index, j: string index
-    
+
     // Handle zero case separately
     if (value == 0) {
         str[0] = '0';
