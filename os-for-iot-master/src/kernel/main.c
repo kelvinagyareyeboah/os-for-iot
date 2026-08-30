@@ -1,6 +1,4 @@
-
-{10 readings, then sleep
-        if (data_available_counter < 10)
+ounter < 10)
         {
             // Simulate DHT11 read (in real implementation, call dht11_read())
             simulated_temp = (simulated_temp + 1) % 40; // Increment and wrap around 40
