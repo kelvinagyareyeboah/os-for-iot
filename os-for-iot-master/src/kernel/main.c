@@ -4,7 +4,7 @@ _str[i]; // Copy temperaturenit
             uart_puts(buf); // Output to UART
 
             // Debug: Confirm task is running
-            uart_puts("[DEBUG] Sensor task executed\n");
+            uart_puts("[DEBUG] Senn");
 
             // Process: Check thresholds
             if (simulated_temp > 30) {
