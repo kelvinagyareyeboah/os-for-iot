@@ -1,6 +1,5 @@
 
-            // Buffer and string arrays for output formatting
-            char buf[64];
+            // Buffer and string arr
             char temp_str[12], hum_str[12];
                  itoa(simulated_temp, temp_str);
             itoa(simulated_humidity,             int idx = 0; // Index for buf
