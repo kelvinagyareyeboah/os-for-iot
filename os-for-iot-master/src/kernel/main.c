@@ -1,5 +1,4 @@
- Interrupt (WFI) with timer
-            unsigned long start = get_system_timer();
+ = get_system_timer();
             while ((get_system_timer() - start) < 3000000UL); // Wait for 3 seconds
 
             uart_puts("   [PWR] Waking up from low-power mode...\n");
