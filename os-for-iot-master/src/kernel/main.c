@@ -1,5 +1,4 @@
-
-extern void enable_irq(void); // External function to enable interrupts
+xternal function to enable interrupts
 
 // Simulated DHT11 sensor data (global variables)
 int simulated_temp = 25;      // Initial temperature
