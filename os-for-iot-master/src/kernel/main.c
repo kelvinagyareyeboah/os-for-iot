@@ -1,6 +1,4 @@
 
-            // Process: Check thresholds
-            if (simulated_temp > 30) {
                 uart_puts("   [ALERT] High temperature detected!\n");
             }
 
