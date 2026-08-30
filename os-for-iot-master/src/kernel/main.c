@@ -1,10 +1,6 @@
 
         // Sync delay
-        for (volatile int i = 0; i < 20000000; i++);
-        schedule(); // Yield to scheduler
-    }
-}
-
+      
 // Task 3: CoAP Protocol Simulation
 void task_coap(void)
 {
