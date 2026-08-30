@@ -1,5 +1,4 @@
-
-        schedule(); // Yield to scheduler
+ scheduler
     }
 }
 
