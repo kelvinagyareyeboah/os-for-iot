@@ -1,6 +1,4 @@
- Increment reading counter
- i < 10000000; i++);
-        }
+ 
         else
         {
             // Power saving: Simulate low-power mode
