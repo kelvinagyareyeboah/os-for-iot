@@ -1,7 +1,4 @@
 
-{output
-    mem_init();     // Initialize memory management
-    sched_init();   // Initialize task scheduler
 
     // Print sySimulated Demo\n");
     uart_puts("  Features: Multitasking, Power Mgmt, IoT Protocols\n");
