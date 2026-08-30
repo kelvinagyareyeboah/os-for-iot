@@ -2,12 +2,7 @@
 
     // Create Tasks (MQTT and CoAP run as scheduled tasks)
     task_create(task_mqtt);
-    task_create(task_coap);
-
-    // Main loop: Run scheduler and periodically show stats
-    int cycle = 0; // Schedule cycle counter
-    int data_available_counter = 0; // Sensor data counter
-    while (1) // Main kernel loop
+  ernel loop
     {
         // Run sensor task inline (instead of as separate scheduled task)
         if (data_available_counter < 10)
