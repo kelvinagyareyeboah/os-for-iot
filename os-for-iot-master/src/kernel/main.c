@@ -1,7 +1,5 @@
 
-{
-    // Initialize hardware and kernel subsystems
-    uart_init();    // Initialize UART for serial output
+{output
     mem_init();     // Initialize memory management
     sched_init();   // Initialize task scheduler
 
