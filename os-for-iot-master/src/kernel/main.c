@@ -1,4 +1,3 @@
-#include <stddef.h>
 
 // Minimal itoa for positive integers
 void itoa(int value, char* str) {
