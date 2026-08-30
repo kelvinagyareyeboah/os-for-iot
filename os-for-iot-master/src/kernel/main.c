@@ -1,10 +1,5 @@
 Response: ACK with data\n");
 
-        // Delay
-        for (volatile int i = 0; i < 15000000; i++);
-        schedule(); // Yield to scheduler
-    }
-}
 
 void kernel_main(void)
 {
