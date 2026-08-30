@@ -1,8 +1,4 @@
-
-        // Sync delay
-      
-// (UDP, no encryption for demo)\n");
-        uart_puts("   [CoAP] Response: ACK with data\n");
+Response: ACK with data\n");
 
         // Delay
         for (volatile int i = 0; i < 15000000; i++);
