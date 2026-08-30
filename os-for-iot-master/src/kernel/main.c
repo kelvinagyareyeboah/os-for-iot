@@ -1,7 +1,4 @@
- 
-        else
-        {
-            // Power saving: Simulate low-power mode
+ing: Simulate low-power mode
             uart_puts("   [PWR] No new data. Entering low-power mode (WFI sim)...\n");
 
             // Simulate Wait For Interrupt (WFI) with timer
