@@ -1,4 +1,4 @@
-[i]; ++i) buf[idx++] = prefix[i]; // Copy prefix
+x
             for (int i = 0; temp_str[i]; ++i) buf[idx++] = temp_str[i]; // Copy temperature
             buf[idx++] = 'C'; // Add unit
             const char* mid = ", Hu            for (int i = 0; hum_str[i]; ++i) buf[idx++] = hum_str[i]; // Copy humidity
