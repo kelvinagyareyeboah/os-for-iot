@@ -1,6 +1,4 @@
-{
-        buf[i++] = (value % 10) + '0'; // Convert digit to ASCII
-        value /= 10; // Remov    
+{// Remov    
     // Reverse digits to get correct order
         str[j++] = buf[--i]; // Copy from buffer in reverse order
     }
