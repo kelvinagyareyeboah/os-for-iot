@@ -1,6 +1,4 @@
-{// Remov    
-    // Reverse digits to get correct order
-        str[j++] = buf[--i]; // Copy from buffer in reverse order
+{// Remov     // Copy from buffer in reverse order
     }
     str[j] = '\0'; // Null-terminate the string
 }
