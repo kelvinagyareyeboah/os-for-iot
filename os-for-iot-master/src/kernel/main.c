@@ -1,5 +1,4 @@
 
-        str[0] = '0';
         str[1] = '\0';
             while (value > 0) {
         buf[i++] = (value % 10) + '0'; // Convert digit to ASCII
