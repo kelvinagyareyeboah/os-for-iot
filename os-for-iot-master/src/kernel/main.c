@@ -1,6 +1,4 @@
-
-void itoa(int value, char* str) {
-    char buf[12]; // Buffen reverse order (max 10 digits + null terminator)
+x 10 digits + null terminator)
     int i = 0, j = 0; // i: buffer index, j: string index
     
     // Handle zero case separately
