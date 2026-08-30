@@ -1,6 +1,5 @@
 
-        uart_puts("   [MQTT] Packet: {\"temp\":");
-        // Output temperature as two digits
+        uart_puts("   [MQTT] Packet: {\"temp\"
         uart_send('0' + (simulated_temp / 10)); // Tens digit
         uart_send('0' + (simulated_temp % 10)); // Ones digit
         uart_puts(", \"humidity\":");
