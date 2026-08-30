@@ -5,7 +5,7 @@
             buf[idx++] = 'C'; // Add unit
             const char* mid = ", Hu            for (int i = 0; hum_str[i]; ++i) buf[idx++] = hum_str[i]; // Copy humidity
             buf[idx++] = '%'; // Add unit
-            buf[idx++] = '\n'; // New line
+            bu
             buf[idx] = '\0'; // Null terminator
             uart_puts(buf); // Output to UART
 
