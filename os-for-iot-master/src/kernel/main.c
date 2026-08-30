@@ -1,4 +1,4 @@
-000; i++); // Simulate network delay
+
 
         uart_puts("   [MQTT] Publishing sensor data to broker...\n");
         uart_puts("   [MQTT] Packet: {\"temp\":");
