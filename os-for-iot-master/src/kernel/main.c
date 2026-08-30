@@ -5,11 +5,7 @@ x 10 digits + null terminator)
     if (value == 0) {
         str[0] = '0';
         str[1] = '\0';
-        return;
-    }
-    
-    // Extract digits from right to left (produces reversed string)
-    while (value > 0) {
+            while (value > 0) {
         buf[i++] = (value % 10) + '0'; // Convert digit to ASCII
         value /= 10; // Remove last digit
     }
