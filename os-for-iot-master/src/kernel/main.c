@@ -1,6 +1,4 @@
-
-
-            // Simulate Wait For Interrupt (WFI) with timer
+ Interrupt (WFI) with timer
             unsigned long start = get_system_timer();
             while ((get_system_timer() - start) < 3000000UL); // Wait for 3 seconds
 
