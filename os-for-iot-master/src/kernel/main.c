@@ -1,6 +1,5 @@
 _str[i]; // Copy temperatull terminator
-            uart_puts(buf); 
-            // Debug: Confirm task is running
+            uart_putirm task is running
             uart_puts("[DEBUG] Senn");
 
             // Process: Check thresholds
