@@ -1,8 +1,4 @@
- scheduler
-    }
-}
-
-// Task 2: MQTT Protocol Simulation with Security
+2: MQTT Protocol Simulation with Security
 void task_mqtt(void)
 {
     while (1) // Infinite task loop
