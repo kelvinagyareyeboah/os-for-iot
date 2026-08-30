@@ -1,13 +1,4 @@
-
-
-    // Create Tasks (MQTT and CoAP run as scheduled tasks)
-    task_create(task_mqtt);
-  ernel loop
-    {
-        // Run sensor task inline (instead of as separate scheduled task)
-        if (data_available_counter < 10)
-        {
-            // Simulate sensor reading (same logic as task_sensor)
+ensor reading (same logic as task_sensor)
             simulated_temp = (simulated_temp + 1) % 40;
             if (simulated_temp < 20) simulated_temp = 20;
             simulated_humidity = (simulated_humidity + 2) % 100;
