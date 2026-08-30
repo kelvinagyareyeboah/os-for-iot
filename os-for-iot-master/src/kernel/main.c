@@ -1,5 +1,4 @@
-
-    // Handle zero case separately
+ately
     if (value == 0) {
         str[0] = '0';
         str[1] = '\0';
