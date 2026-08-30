@@ -1,6 +1,5 @@
 itial temperature
-int simulated_humidity = 50;  // Initial humidity
-// ata Collection and Processing
+int simulate and Processing
 void task_sensor(void)
 {
     uart_puts("SENSOR RUNNING\n");
