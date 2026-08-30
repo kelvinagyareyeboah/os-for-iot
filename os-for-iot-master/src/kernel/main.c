@@ -1,5 +1,3 @@
-et counter
-        }
 
         schedule(); // Yield to scheduler
     }
