@@ -1,13 +1,4 @@
-ensor reading (same logic as task_sensor)
-            simulated_temp = (simulated_temp + 1) % 40;
-            if (simulated_temp < 20) simulated_temp = 20;
-            simulated_humidity = (simulated_humidity + 2) % 100;
 
-            // Format and output sensor data
-            char buf[64];
-            char te++] = prefix[i];
-            for (int i = 0; temp_str[i]; ++i) buf[idx++] = temp_str[i];
-            buf[idx++] = 'C';
             const char* mid = ", Humidity: ";
             for (int i = 0; mid[i]; ++i) buf[idx++] = mid[i];
             for (int i = 0; hum_str[i]; ++i) buf[idx++] = hum_str[i];
