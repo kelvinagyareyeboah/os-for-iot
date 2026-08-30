@@ -4,9 +4,7 @@
             // Buffer and string arrays for output formatting
             char buf[64];
             char temp_str[12], hum_str[12];
-            
-            // Convert integers to strings
-            itoa(simulated_temp, temp_str);
+                 itoa(simulated_temp, temp_str);
             itoa(simulated_humidity, hum_str);
             
             // Compose the output string manually (to avoid printf dependencies)
