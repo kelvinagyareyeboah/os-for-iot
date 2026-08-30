@@ -1,5 +1,4 @@
-ounter < 10)
-        {
+ount
             // Simulate DHT11 read (in real implementation, call dht11_read())
             simulated_temp = (simulated_temp + 1) % 40; // Increment and wrap around 40
             if (simulated_temp < 20) simulated_temp = 20; // Keep minimum at 20
