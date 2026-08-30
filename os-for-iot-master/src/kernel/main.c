@@ -1,6 +1,4 @@
 _str[i]; // Copy temperaturenit
-            const char* mid = ", Hu            for (int i = 0; hum_str[i]; ++i) buf[idx++] = hum_str[i]; // Copy humidity
-            buf[idx++] = '%'; // Add unit
             bu
             buf[idx] = '\0'; // Null terminator
             uart_puts(buf); // Output to UART
