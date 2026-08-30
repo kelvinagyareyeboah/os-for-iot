@@ -3,10 +3,7 @@
             char buf[64];
             char temp_str[12], hum_str[12];
                  itoa(simulated_temp, temp_str);
-            itoa(simulated_humidity, hum_str);
-            
-            // Compose the output string manually (to avoid printf dependencies)
-            int idx = 0; // Index for buf
+            itoa(simulated_humidity,             int idx = 0; // Index for buf
             const char* prefix = "[SENSOR] Temp: ";
             for (int i = 0; prefix[i]; ++i) buf[idx++] = prefix[i]; // Copy prefix
             for (int i = 0; temp_str[i]; ++i) buf[idx++] = temp_str[i]; // Copy temperature
