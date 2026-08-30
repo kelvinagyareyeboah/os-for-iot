@@ -1,7 +1,4 @@
 
-        uart_puts("   [MQTT] Packet: {s digit
-        uart_puts(", \"humidity\":");
-        // Output humidity as two digits
         uart_send('0' + (simulated_humidity / 10)); // Tens digit
         uart_send('0' + (simulated_humidity % 10)); // Ones digit
         uart_puts("} (encrypted)\n");
