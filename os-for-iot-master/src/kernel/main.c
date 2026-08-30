@@ -1,4 +1,4 @@
-itir(void)
+
 {
     while (1) // Infinite task loop
     {
