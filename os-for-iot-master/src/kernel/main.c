@@ -1,7 +1,4 @@
-{// Remov     // Copy from buffer in reverse order
-    }
-    str[j] = '\0'; // Null-terminate the string
-}
+
 
 #include "drivers/uart.h"
 #include "drivers/timer.h"
