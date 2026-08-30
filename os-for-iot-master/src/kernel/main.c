@@ -1,6 +1,4 @@
-xternal function to enable interrupts
-
-// Simulated DHT11 sensor data (global variables)
+riables)
 int simulated_temp = 25;      // Initial temperature
 int simulated_humidity = 50;  // Initial humidity
 
