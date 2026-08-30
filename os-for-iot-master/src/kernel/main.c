@@ -1,5 +1,4 @@
-
-        uart_send('0' + (simulated_humidity / 10)); // Tens digit
+ // Tens digit
         uart_send('0' + (simulated_humidity % 10)); // Ones digit
         uart_puts("} (encrypted)\n");
 
