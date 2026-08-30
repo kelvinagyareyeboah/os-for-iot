@@ -1,5 +1,4 @@
-
-            data_available_counter = 0; // Reset counter
+et counter
         }
 
         schedule(); // Yield to scheduler
