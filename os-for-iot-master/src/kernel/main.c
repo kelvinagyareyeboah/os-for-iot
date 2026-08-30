@@ -1,10 +1,4 @@
- usage
-    uart_puts("   [MEM] Heap used: ");
-    uint32_t mem_used = get_heap_used(); // Get heap usage in bytes
-    // Display kilobytes (simplified - shows 0-9 KB range)
-    uart_send('0' + (mem_used / 1000)); // Thousands digit
-    uart_send('0' + ((mem_used % 1000) / 100)); // Hundreds digit
-    uart_puts(" KB\n");
+
 
     // Create Tasks (MQTT and CoAP run as scheduled tasks)
     task_create(task_mqtt);
