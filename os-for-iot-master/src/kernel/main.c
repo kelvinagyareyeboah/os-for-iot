@@ -1,6 +1,5 @@
 
 {
-    while (1) // Infinite task loop
     {
         uart_puts("   [MQTT] Establishing secure connection (TLS handshake)...\n");
         for (volatile int i = 0; i < 5000000; i++); // Simulate network delay
