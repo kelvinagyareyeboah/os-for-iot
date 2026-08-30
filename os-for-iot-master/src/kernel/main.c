@@ -1,6 +1,5 @@
 _str[i]; // Copy temperatull terminator
-            uart_puts(buf); // Output to UART
-
+            uart_puts(buf); 
             // Debug: Confirm task is running
             uart_puts("[DEBUG] Senn");
 
