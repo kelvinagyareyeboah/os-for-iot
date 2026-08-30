@@ -1,6 +1,4 @@
-
-
-            data_available_counter++; // Increment reading counter
+ Increment reading counter
 
             // Delay for readability (busy-wait loop)
             for (volatile int i = 0; i < 10000000; i++);
