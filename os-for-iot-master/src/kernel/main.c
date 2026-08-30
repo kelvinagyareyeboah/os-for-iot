@@ -1,7 +1,4 @@
 
-
-        uart_puts("   [MQTT] Sync complete. Power optimized.\n");
-
         // Sync delay
         for (volatile int i = 0; i < 20000000; i++);
         schedule(); // Yield to scheduler
