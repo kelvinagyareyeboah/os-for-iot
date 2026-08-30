@@ -1,7 +1,4 @@
 
-ched.h"
-#include <stdint.h>
-
 extern void enable_irq(void); // External function to enable interrupts
 
 // Simulated DHT11 sensor data (global variables)
