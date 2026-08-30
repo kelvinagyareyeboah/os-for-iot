@@ -1,6 +1,4 @@
-_str[i]; // Copy temperaturenit
-            bu
-            buf[idx] = '\0'; // Null terminator
+_str[i]; // Copy temperatull terminator
             uart_puts(buf); // Output to UART
 
             // Debug: Confirm task is running
