@@ -1,8 +1,5 @@
 
-{
-    while (1) // Infinite task loop
-    {
-        // Simulate sensor readings: 10 readings, then sleep
+{10 readings, then sleep
         if (data_available_counter < 10)
         {
             // Simulate DHT11 read (in real implementation, call dht11_read())
