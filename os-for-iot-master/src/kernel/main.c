@@ -1,7 +1,5 @@
 
-
-#include ""
-#include "kernel/sched.h"
+ched.h"
 #include <stdint.h>
 
 extern void enable_irq(void); // External function to enable interrupts
