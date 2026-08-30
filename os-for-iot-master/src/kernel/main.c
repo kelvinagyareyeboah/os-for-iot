@@ -1,11 +1,5 @@
 
-            unsigned long start = get_system_timer();
-            while ((get_system_timer() - start) < 300000UL);
-
-            uart_puts("   [PWR] Waking up from low-power mode...\n");
-            data_available_counter = 0; // Reset counter
-        }
-
+            unsigned long start 
         schedule(); // Run scheduler to switch tasks
         cycle++; // Increment cycle counter
         
