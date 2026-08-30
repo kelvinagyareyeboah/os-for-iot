@@ -1,5 +1,4 @@
-_str[i]; // Copy temperature
-            buf[idx++] = 'C'; // Add unit
+_str[i]; // Copy temperaturenit
             const char* mid = ", Hu            for (int i = 0; hum_str[i]; ++i) buf[idx++] = hum_str[i]; // Copy humidity
             buf[idx++] = '%'; // Add unit
             bu
