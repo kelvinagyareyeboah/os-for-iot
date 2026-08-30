@@ -1,4 +1,4 @@
-2: MQTT Protocol Simulation with Security
+y
 void task_mqtt(void)
 {
     while (1) // Infinite task loop
