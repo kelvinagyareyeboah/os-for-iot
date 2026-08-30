@@ -1,5 +1,4 @@
-
-                uart_puts("   [ALERT] High temperature detected!\n");
+  [ALERT] High temperature detected!\n");
             }
 
             data_available_counter++; // Increment reading counter
