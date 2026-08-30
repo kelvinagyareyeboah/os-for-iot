@@ -1,5 +1,4 @@
-riables)
-int simulated_temp = 25;      // Initial temperature
+itial temperature
 int simulated_humidity = 50;  // Initial humidity
 // ata Collection and Processing
 void task_sensor(void)
