@@ -1,6 +1,4 @@
-itial temperature
-int simulate and Processing
-void task_sensor(void)
+itir(void)
 {
     uart_puts("SENSOR RUNNING\n");
     int data_available_counter = 0; // Counter for simulated readings
