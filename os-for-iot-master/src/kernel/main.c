@@ -1,5 +1,4 @@
-
-        for (volatile int i = 0; i < 5000000; i++); // Simulate network delay
+000; i++); // Simulate network delay
 
         uart_puts("   [MQTT] Publishing sensor data to broker...\n");
         uart_puts("   [MQTT] Packet: {\"temp\":");
