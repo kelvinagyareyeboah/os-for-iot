@@ -1,5 +1,4 @@
- = get_system_timer();
-            while ((get_system_timer() - start) < 3000000UL); // Wait for 3 seconds
+ = get_system_timer();timer() - start) < 3000000UL); // Wait for 3 seconds
 
             uart_puts("   [PWR] Waking up from low-power mode...\n");
             data_available_counter = 0; // Reset counter
