@@ -1,6 +1,4 @@
 
-            simulated_humidity = (simulated_humidity + 2) % 100; // Increment humidity
-
             // Buffer and string arrays for output formatting
             char buf[64];
             char temp_str[12], hum_str[12];
