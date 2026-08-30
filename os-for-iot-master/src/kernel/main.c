@@ -1,5 +1,4 @@
-y
-void task_mqtt(void)
+
 {
     while (1) // Infinite task loop
     {
