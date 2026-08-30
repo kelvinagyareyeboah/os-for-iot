@@ -1,4 +1,4 @@
- < 20)  = 20; // Keep minimum at 20
+nimum at 20
             simulated_humidity = (simulated_humidity + 2) % 100; // Increment humidity
 
             // Buffer and string arrays for output formatting
