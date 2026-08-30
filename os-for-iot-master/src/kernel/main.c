@@ -1,7 +1,6 @@
 
 {
-    {
-        uart_puts("   [MQTT] Establishing secure connection (TLS handshake)...\n");
+    {cure connection (TLS handshake)...\n");
         for (volatile int i = 0; i < 5000000; i++); // Simulate network delay
 
         uart_puts("   [MQTT] Publishing sensor data to broker...\n");
