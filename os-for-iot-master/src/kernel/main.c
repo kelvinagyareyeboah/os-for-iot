@@ -3,10 +3,7 @@
     mem_init();     // Initialize memory management
     sched_init();   // Initialize task scheduler
 
-    // Print system banner
-    uart_puts("\n\n");
-    uart_puts("=========================================\n");
-    uart_puts("  IoT Operating System - Simulated Demo\n");
+    // Print sySimulated Demo\n");
     uart_puts("  Features: Multitasking, Power Mgmt, IoT Protocols\n");
     uart_puts("  Optimized for Low Resources\n");
     uart_puts("=========================================\n");
