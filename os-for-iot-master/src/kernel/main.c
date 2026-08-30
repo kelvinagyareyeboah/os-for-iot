@@ -1,6 +1,4 @@
- // Tens digit
-        uart_send('0' + (simulated_humidity % 10)); // Ones digit
-        uart_puts("} (encrypted)\n");
+
 
         uart_puts("   [MQTT] Sync complete. Power optimized.\n");
 
