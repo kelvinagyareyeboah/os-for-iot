@@ -1,4 +1,4 @@
-_str[i]; // Copy temperatull terminator
+
             uart_putirm task is running
             uart_puts("[DEBUG] Senn");
 
