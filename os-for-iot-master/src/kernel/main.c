@@ -1,13 +1,7 @@
 
         // Sync delay
       
-// Task 3: CoAP Protocol Simulation
-void task_coap(void)
-{
-    while (1) // Infinite task loop
-    {
-        uart_puts("   [CoAP] Sending lightweight request to server...\n");
-        uart_puts("   [CoAP] GET /sensor/data (UDP, no encryption for demo)\n");
+// (UDP, no encryption for demo)\n");
         uart_puts("   [CoAP] Response: ACK with data\n");
 
         // Delay
