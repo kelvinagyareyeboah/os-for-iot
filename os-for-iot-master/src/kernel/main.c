@@ -1,17 +1,4 @@
 
-            const char* mid = ", Humidity: ";
-            for (int i = 0; mid[i]; ++i) buf[idx++] = mid[i];
-            for (int i = 0; hum_str[i]; ++i) buf[idx++] = hum_str[i];
-            buf[idx++] = '%';
-            buf[idx++] = '\n';
-            buf[idx] = '\0';
-            uart_puts(buf);
-
-            data_available_counter++;
-
-            // Short delay for readability
-            for (volatile int i = 0; i < 100000; i++);
-        }
         else
         {
             // Power saving mode
