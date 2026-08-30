@@ -1,10 +1,4 @@
 
-        else
-        {
-            // Power saving mode
-            uart_puts("   [PWR] No new data. Entering low-power mode (WFI sim)...\n");
-
-            // Shorter sleep in main loop (300ms vs 3s in task)
             unsigned long start = get_system_timer();
             while ((get_system_timer() - start) < 300000UL);
 
