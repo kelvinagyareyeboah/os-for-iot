@@ -1,4 +1,4 @@
-x 10 digits + null terminator)
+tor)
     int i = 0, j = 0; // i: buffer index, j: string index
     
     // Handle zero case separately
