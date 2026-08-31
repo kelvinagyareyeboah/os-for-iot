@@ -1,5 +1,4 @@
-gpio_use_as_alt0(DHT_PIN); // Not ideal, really need input mode.
-    // NOTE: In 0' sets it to Alt function 0 (which might be I2C or something else depending on pin).
+t function 0 (which might be I2C or something else depending on pin).
     // To make this work properly, we need a gpio_init_input in gpio.c!
     // But for now, we will hacr has updated gpio.c or use a trick.
     // Actually, setting FSEL to 000 is input.
