@@ -1,5 +1,4 @@
 
-        unsigned long tDur = get_system_timer() - tStart;
 
         // If > 50us (usually 70us for '1', 26-28us for '0'), it's a 1
                     // Shift info
