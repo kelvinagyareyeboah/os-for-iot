@@ -1,6 +1,4 @@
 
-    // 1. S
-    gpio_init_output(DHT_PIN);
     gpio_clear(DHT_PIN);
     dl(18000); // 18ms low
     gpio_set(DHT_PIN);
