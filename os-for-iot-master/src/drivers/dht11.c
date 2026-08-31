@@ -1,5 +1,4 @@
-LEV0) & (1 << DHT_PIN)) == 0)
-        {
+LEV0) & (1 
 
         // Measure Length of High
         unsigned long tStart = get_system_timer();
