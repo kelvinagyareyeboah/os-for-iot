@@ -1,10 +1,8 @@
 #include "../i/dht11.h"
 #include "../include/drivers/gpio.h"
 #include "../include/drivervoid d    while ((get_system_timer() - start) < (unsigned long)us)
-        ;
-}
-
-void dht11_init()
+        s
+                
 {
     // Usually nothing to init, just GPIO setup during read
 }
