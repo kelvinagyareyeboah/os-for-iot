@@ -4,9 +4,7 @@
     // Usually nothing to init, just GPIO setup during read
 }
 
-dht11_result_t dht11_read()
-{
-    dh
+dht11_result_
     res.success = 0;
     res.temperature = 0;
     res.humidity = 0;
