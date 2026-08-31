@@ -5,7 +5,7 @@
     // NOTE: In our gpio.c, we don't have a pure "input" function helper.
     // 'gpio_use_as_alt0' sets it to Alt function 0 (which might be I2C or something else depending on pin).
     // To make this work properly, we need a gpio_init_input in gpio.c!
-    // But for now, we will hack it or assume the user has updated gpio.c or use a trick.
+    // But for now, we will hacr has updated gpio.c or use a trick.
     // Actually, setting FSEL to 000 is input.
 
     // Manually setting Input Mode since helper is missing
