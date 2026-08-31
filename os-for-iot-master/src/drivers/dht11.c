@@ -1,9 +1,7 @@
 t function 0 (which might be I2C or something else depending on pin).
     // To make this work properly, we need a gpio_init_input in gpio.c!
     // But for now, we will hacr has updated gpio.c or use a trick.
-    // Actually, setting FSEL to 000 is input.
-
-    // Manually setting Input Mode since helper is missing
+    // Actually, setting FSEL t    // Manually setting Input Mode since helper is missing
     unsigned int reg = GPFSEL0 + ((DHT_PIN / 10) * 4);
     unsigned int shift = (DHT_PIN % 10) * 3;
     unsigned int val = mmio_read(reg);
