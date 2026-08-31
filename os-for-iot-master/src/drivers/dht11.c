@@ -5,7 +5,6 @@ C or something else dependi a gpio_init_input in gpio.c!
     unsigned int shift = (DHT_PIN % 10) * 3;
     unsigned int val = mmio_read(reg);
     val &= ~(7 << shift); // 000 is Input
-    mmio_write(reg, val);
 
     // 3. Wait for response
     // Expect Low (80us) then High (80us)
