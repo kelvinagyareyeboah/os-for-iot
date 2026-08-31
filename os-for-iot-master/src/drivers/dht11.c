@@ -1,10 +1,7 @@
 #include "../i/dht11.h"
 #include "../include/drivers/gpio.h"
 #include "../include/drivervoid d    while ((get_system_timer() - start) < (unsigned l
-    // Usually nothing to init, just GPIO setup during read
-}
-
-dht11_result_
+    // Usually nothing to init, just GPIO setup d
     res.success = 0;
     res.temperature = 0;
     res.humidity = 0;
