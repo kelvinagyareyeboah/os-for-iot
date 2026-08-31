@@ -1,5 +1,4 @@
-
-    gpio_set(DHT_PIN    gpio_use_as_alt0(DHT_PIN); // Not ideal, really need input mode.
+gpio_use_as_alt0(DHT_PIN); // Not ideal, really need input mode.
     // NOTE: In our gpio.c, we don't have a pure "input" function helper.
     // 'gpio_use_as_alt0' sets it to Alt function 0 (which might be I2C or something else depending on pin).
     // To make this work properly, we need a gpio_init_input in gpio.c!
