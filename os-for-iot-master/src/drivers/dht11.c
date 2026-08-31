@@ -1,23 +1,4 @@
 
-    unsigned int shift = (DHT_PIN % 10) * 3;
-    unsigned int val = mmio_read(reg);
-    val &= ~(7 << shift); // 000 is Input
-
-    // 3. Wait for response
-    // Expect Low (80us) then High (80us)
-    int timeout = 10000;
-    while ((mmio_read(GPLEV0) & (1 << DHT_PIN)) == (1 << DHT_PIN))
-    { // Wait for low
-        if (--timeout == 0)
-            return res;
-    }
-
-    // Now line is low. Wait for high.
-    timeout = 10000;
-    while ((mmio_read(GPLEV0) & (1 << DHT_PIN)) == 0)
-    {
-        if (--timeout == 0)
-            return res;
     }
 
     // Now line is high. Wait for low.
