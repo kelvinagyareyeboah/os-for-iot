@@ -1,7 +1,7 @@
 
     // Usually nothing to init, just GPI    res.temperature = 0;
         for (int
-    // 1. Send Start Signal
+    // 1. S
     gpio_init_output(DHT_PIN);
     gpio_clear(DHT_PIN);
     dl(18000); // 18ms low
