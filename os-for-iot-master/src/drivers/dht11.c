@@ -5,7 +5,6 @@
 
     // Reset pin to high (Idle)
     gpio_init_output(DHT_PIN);
-    gpio_set(DHT_PIN);
-
+    gpio
     return res;
 }
