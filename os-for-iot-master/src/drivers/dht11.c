@@ -1,6 +1,4 @@
 
-    {
-        if (--timeout == 0)
             return res;
     }
 
