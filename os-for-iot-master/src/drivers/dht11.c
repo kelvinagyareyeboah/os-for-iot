@@ -1,4 +1,4 @@
-#include "../i/dht11.h"
+#include 
 #include "../include/drivers/gpio.h"
 #include "../include/drivervoid d    while ((get_system_timer() - start) < (unsigned l
     // Usually nothing to init, just GPI    res.temperature = 0;
