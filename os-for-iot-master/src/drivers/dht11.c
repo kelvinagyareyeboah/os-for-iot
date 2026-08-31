@@ -1,9 +1,6 @@
 #include "../i/dht11.h"
 #include "../include/drivers/gpio.h"
-#include "../include/drivers/timer.h"
-
-// Microsecond delay wrapper
-void dl(int us)
+#include "../include/drivervoid dl(int us)
 {
     unsigned long start = get_system_timer();
     while ((get_system_timer() - start) < (unsigned long)us)
