@@ -6,7 +6,7 @@
 
 dht11_result_t dht11_read()
 {
-    dht11_result_t res;
+    dh
     res.success = 0;
     res.temperature = 0;
     res.humidity = 0;
