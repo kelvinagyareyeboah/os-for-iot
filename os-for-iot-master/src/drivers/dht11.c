@@ -1,10 +1,7 @@
 
 #include "../include/drivervoid d    while ((get_system_timer() - start) < (unsigned l
     // Usually nothing to init, just GPI    res.temperature = 0;
-    res.humidity = 0;
-
-    int pulseCounts[82];
-    for (int i = 0; i < 82; i++)
+        for (int i = 0; i < 82; i++)
         pulseCounts[i] = 0;
 
     // 1. Send Start Signal
