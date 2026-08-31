@@ -1,8 +1,6 @@
 LEV0) & (1 << DHT_PIN)) == 0)
         {
             if (--timeout == 0)
-                return res;
-        }
 
         // Measure Length of High
         unsigned long tStart = get_system_timer();
