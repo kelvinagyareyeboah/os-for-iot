@@ -1,9 +1,7 @@
 
 #include "../include/drivervoid d    while ((get_system_timer() - start) < (unsigned l
     // Usually nothing to init, just GPI    res.temperature = 0;
-        for (int i = 0; i < 82; i++)
-        pulseCounts[i] = 0;
-
+        for (int
     // 1. Send Start Signal
     gpio_init_output(DHT_PIN);
     gpio_clear(DHT_PIN);
