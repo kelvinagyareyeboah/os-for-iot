@@ -1,4 +1,4 @@
-updated gpio.c or use a trick.
+
     // Actually, setting FSEL t    // Manually setting Input Mode since helper is missing
     unsigned int reg = GPFSEL0 + ((DHT_PIN / 10) * 4);
     unsigned int shift = (DHT_PIN % 10) * 3;
