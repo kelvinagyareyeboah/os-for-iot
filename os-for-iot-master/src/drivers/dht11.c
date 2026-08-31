@@ -6,7 +6,7 @@
         // If > 50us (usually 70us for '1', 26-28us for '0'), it's a 1
                     // Shift info
                 else if (i < 16)
-            { /* decimal part, ignore */
+        
             }
             else if (i < 24)
                 res.temperature |= (1 << (23 - i));
