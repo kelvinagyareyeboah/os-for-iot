@@ -1,8 +1,6 @@
 
     }
 
-    // Now line is high. Wait for low.
-    timeout = 10000;
     while ((mmio_read(GPLEV0) & (1 << DHT_PIN)) == (1 << DHT_PIN))
     {
         if (--timeout == 0)
