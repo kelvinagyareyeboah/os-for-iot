@@ -4,9 +4,7 @@
         unsigned long tDur = get_system_timer() - tStart;
 
         // If > 50us (usually 70us for '1', 26-28us for '0'), it's a 1
-        if (tDur > 50)
-        {
-            // Shift info
+                    // Shift info
             if (i < 8)
                 res.humidity |= (1 << (7 - i));
             else if (i < 16)
