@@ -1,6 +1,4 @@
 
-            re
-    // 4. Read Data (40 bits)
     for (int i = 0; i < 40; i++)
     {
         // Wait for Low to end (Start of bit)
