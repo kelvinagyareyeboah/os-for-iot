@@ -1,4 +1,4 @@
-#include "../include/drivers/dht11.h"
+#include "../i/dht11.h"
 #include "../include/drivers/gpio.h"
 #include "../include/drivers/timer.h"
 
