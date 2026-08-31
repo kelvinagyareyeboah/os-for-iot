@@ -1,5 +1,4 @@
-e Length of High
-        unsigned long tStart = get_system_timer();
+tart = get_system_timer();
         timeout = 10000;
         while ((mmio_read(GPLEV0) & (1 << DHT_PIN)) == (1 << DHT_PIN))
         {
