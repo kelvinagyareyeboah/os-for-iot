@@ -1,6 +1,4 @@
-< DHT_PIN)) == (1 << DHT_PIN))
-        {
-            if (--timeout == 0)
+
                 return res;
         }
         unsigned long tDur = get_system_timer() - tStart;
