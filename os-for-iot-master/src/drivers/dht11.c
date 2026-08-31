@@ -1,4 +1,4 @@
-    while ((get_system_timer() - start) < (unsigned l
+    while ((get_) < (unsigned l
     // Usually nothing to init, just GPI    res.temperature = 0;
         for (int
     // 1. Send Start Signal
