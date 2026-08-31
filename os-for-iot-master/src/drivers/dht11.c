@@ -5,9 +5,7 @@
 
         // If > 50us (usually 70us for '1', 26-28us for '0'), it's a 1
                     // Shift info
-            if (i < 8)
-                res.humidity |= (1 << (7 - i));
-            else if (i < 16)
+                else if (i < 16)
             { /* decimal part, ignore */
             }
             else if (i < 24)
