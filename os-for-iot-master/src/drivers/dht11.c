@@ -1,6 +1,4 @@
 
-        // Wait for Low to end (Start of bit)
-        timeout = 10000;
         while ((mmio_read(GPLEV0) & (1 << DHT_PIN)) == 0)
         {
             if (--timeout == 0)
