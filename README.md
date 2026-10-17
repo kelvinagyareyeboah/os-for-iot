@@ -12,7 +12,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│               Core Concepts Applied                 │
+│               Core Concepts Applied        
 ├──────────────────────┬──────────────────────────────┤
 │ Process Management   │ Scheduling & coordination    │
 │ Resource Allocation  │ Deadlock awareness           │
