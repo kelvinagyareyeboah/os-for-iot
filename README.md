@@ -5,7 +5,7 @@
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)](.)
 [![Version Control](https://img.shields.io/badge/Version_Control-Git_&_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 [![Docs](https://img.shields.io/badge/Docs-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)](.)
-[![OS Concepts](https://img.shields.io/badge/Course-Operating_Systems-orange?style=flat-square)](.)
+[![OS Concepts](https://img.shields.io/badge/Course-Operating_System-square)](.)
 
 A practical implementation of core Operating Systems concepts, built as a collaborative group ass
 [Overview](#-project-overview) · [Architecture](#-system-architecture) · [Team](#-team-members) · [Docs](#-documenta
