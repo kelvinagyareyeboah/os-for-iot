@@ -7,9 +7,7 @@
 [![Docs](https://img.shields.io/badge/Docs-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)](.)
 [![OS Concepts](https://img.shields.io/badge/Course-Operating_Systems-orange?style=flat-square)](.)
 
-A practical implementation of core Operating Systems concepts, built as a collaborative group assignment.  
-Designed to demonstrate process coordination, resource management, and modular system design.
-
+A practical implementation of core Operating Systems concepts, built as a collaborative group ass
 [Overview](#-project-overview) · [Architecture](#-system-architecture) · [Team](#-team-members) · [Docs](#-documentation)
 
 </div>
