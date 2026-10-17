@@ -5,8 +5,7 @@
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-s[![Docs](https://img.shields.io/badge/Docs-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)](.)
 [![OS Concepts](https://img.shields.io/badge/Course-Operating_System-square[Overview](#-project-overview) · [Architecture](#-system-architecture) · [Team](#-team-mem
 This project applies **Operating Systems theory to a real, working system** — built collaboratively by Group 44 as part of an ac
-| Pillar | Description |
-|---|---|
+| Pillar | Des
 | 🔄 **Process Coordination** | Managing concurrent processes and their interactions |
 | 🧩 **Modular Design** | Independent, reusable components with clear separation of concerns |
 | 🤝 **Collaborative Development** | Version-con via Git and GitHub |
