@@ -5,8 +5,7 @@
 ---
 
 ## 🎯 Objectives
-
-- ✅ Apply fundamental **OS concepts** through hands-on implementation
+- ✅ Apply fundamental **OS concepts** through hands-on impl
 - ✅ Design and build a **functional, modular system architecture**
 - ✅ Practice **collaborative development** with Git, branching, and pull requests
 - ✅ Produce clear documentation suitable for **academic evaluation**
