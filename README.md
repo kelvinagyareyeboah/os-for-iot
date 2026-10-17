@@ -6,7 +6,7 @@ on** | Managing concurrent processes and their interactions |
 │               Core
 ├──────────────────────┬──────────────────────────────┤
 │ Process Management   │ Scheduling &
-│ Resource Allocation  │ Deadlock awareness           │
+│ Resource Allocation  │ Dea
 │ I/O Handling         │ Input/output flow control    │
 │ Synchronization      │ Concurrent process safety    │
 │ Modularization       │ Component separation         │
