@@ -8,8 +8,7 @@ This project applies **Operating Systems theory to a real, working system** — 
 | Pillar | Des
 | 🔄 **Process Coordination** | Managing concurrent processes and their interactions |
 | 🧩 **Modular Design** | Independent, reusable components with clear separation of concerns |
-| 🤝 **Collaborative Development** | Version-con via Git and GitHub |
-
+| 🤝 **Collaborative Development** | Version-con via G
 ---
 
 ## 🎯 Objectives
