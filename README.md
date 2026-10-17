@@ -3,7 +3,7 @@ on** | Managing concurrent processes and their interactions |
 | 🤝 **Collaborative Development** | Vers
 - ✅ Apply fundamental **OS con Practice **collaborative development** with Git, branching, and pull requests
 - ✅ Produce clear 
-│               Core Concepts Applied        
+│               Core
 ├──────────────────────┬──────────────────────────────┤
 │ Process Management   │ Scheduling & coordination    │
 │ Resource Allocation  │ Deadlock awareness           │
