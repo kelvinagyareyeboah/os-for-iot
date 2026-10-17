@@ -7,8 +7,7 @@ on** | Managing concurrent processes and their interactions |
 │ Synchronization      │ Concurrent process safety    │
 │ Modularization       │ Component separation         │
 │ Version Control      │ Git-bas
-└──────────────────────┴──────────────────────────────┘
-```
+└──────────────────────┴──────────────────
 
 ---
 
