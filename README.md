@@ -2,9 +2,7 @@
 | 🔄 **Process Coordination** | Managing concurrent processes and their interactions |
 | 🧩 **Modular Design** | Independent, reusable components with clear separation of concerns |
 | 🤝 **Collaborative Development** | Version-con via G
----
-
-## 🎯 Objectives
+--
 - ✅ Apply fundamental **OS concepts** through hands-on impl
 - ✅ Design and build a **functional, modular system architecture**
 - ✅ Practice **collaborative development** with Git, branching, and pull requests
