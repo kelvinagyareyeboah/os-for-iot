@@ -8,9 +8,7 @@
 - ✅ Apply fundamental **OS concepts** through hands-on impl
 - ✅ Design and build a **functional, modular system architecture**
 - ✅ Practice **collaborative development** with Git, branching, and pull requests
-- ✅ Produce clear documentation suitable for **academic evaluation**
-
----
+- ✅ Produce clear documentation suitable for **academic e
 
 ## 🧠 OS Concepts Covered
 
