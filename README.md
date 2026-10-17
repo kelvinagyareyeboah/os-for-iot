@@ -6,7 +6,7 @@ on** | Managing concurrent processes and their interactions |
 │ I/O Handling         │ Input/output flow control    │
 │ Synchronization      │ Concurrent process safety    │
 │ Modularization       │ Component separation         │
-│ Version Control      │ Git-based collaboration      │
+│ Version Control      │ Git-bas
 └──────────────────────┴──────────────────────────────┘
 ```
 
