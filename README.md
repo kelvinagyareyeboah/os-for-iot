@@ -1,5 +1,5 @@
 on** | Managing concurrent processes and their interactions |
-| 🧩 **Modular Design** | Independent, reusable components with clear separation of - ✅ Apply fundamental **OS con Practice **collaborative development** with Git, branching, and pull requests
+| 🧩 **Modular Design** | Independent, reusable components with clear separation of - ✅ Apply fundamental **OS con Practice **collaborative development** , and pull requests
 - ✅ ├──────────────────────┬──────────────────────────────┤
 │ Process Management   │ Scheduling &
 │ Resource Allocation  │ Dea
