@@ -8,14 +8,8 @@
 [![OS Concepts](https://img.shields.io/badge/Course-Operating_Systems-orange?style=flat-square)](.)
 
 A practical implementation of core Operating Systems concepts, built as a collaborative group ass
-[Overview](#-project-overview) · [Architecture](#-system-architecture) · [Team](#-team-members) · [Docs](#-documentation)
-
-</div>
-
----
-
-## 📌 Project Overview
-
+[Overview](#-project-overview) · [Architecture](#-system-architecture) · [Team](#-team-members) · [Docs](#-documenta
+--
 This project applies **Operating Systems theory to a real, working system** — built collaboratively by Group 44 as part of an academic course assignment.
 
 The system is designed around three core pillars:
