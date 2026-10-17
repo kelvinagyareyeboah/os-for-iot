@@ -5,7 +5,7 @@ on** | Managing concurrent processes and their interactions |
 - ✅ Produce clear 
 │               Core
 ├──────────────────────┬──────────────────────────────┤
-│ Process Management   │ Scheduling & coordination    │
+│ Process Management   │ Scheduling &
 │ Resource Allocation  │ Deadlock awareness           │
 │ I/O Handling         │ Input/output flow control    │
 │ Synchronization      │ Concurrent process safety    │
