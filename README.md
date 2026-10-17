@@ -1,6 +1,5 @@
 on** | Managing concurrent their interactions |
-| 🧩 **Modular De, reusable components with clearndamental **OS con Practice **collaborat
-## 
+| 🧩 **Modular De, reusable components with clearndamental **OS con Practice *
 The system is 
 ```
 ┌────────────────────────────────── Flow                     │
