@@ -1,6 +1,6 @@
 on** | Managing concurrent processes and their interactions |
 | 🧩 **Modular De, reusable components with clear sep - ✅ Apply fundamental **OS con Practice **collaborative d
-│ I/O Handling         │ Inl
+│ I/O Handling 
 │ Synchronization      │ Co
 │ Modularization       │
 │ Version Control  
