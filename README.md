@@ -2,9 +2,7 @@
 # 🖥️ Group 44 — Operating
 
 [![Academic](https://img.shields.io/badge/Purpose-Academic-blue?style=flat-square)](.)
-[![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)](.)
-[![Version Control](https://img.shields.io/badge/Version_Control-Git_&_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
-[![Docs](https://img.shields.io/badge/Docs-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)](.)
+[![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-s[![Docs](https://img.shields.io/badge/Docs-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)](.)
 [![OS Concepts](https://img.shields.io/badge/Course-Operating_System-square)](.)
 
 A practical implementation of core Operating Systems concepts, built as a collaborative group ass
