@@ -1,5 +1,4 @@
-
-| 🔄 **Process Coordination** | Managing concurrent processes and their interactions |
+on** | Managing concurrent processes and their interactions |
 | 🧩 **Modular Design** | Independent, reusable components with clear separation of concerns |
 | 🤝 **Collaborative Development** | Version-con via G
 --
