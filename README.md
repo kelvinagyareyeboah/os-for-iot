@@ -1,7 +1,6 @@
 on** | Managing concurrent their interactions |
 | 🧩 **Modular De, reusable components with clearndamental **OS con Practice **collaborative d
-│ Modulariz
-│ Version 
+│ Modular
 
 ## 🏗️ System Architecture
 
