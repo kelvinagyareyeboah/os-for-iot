@@ -4,8 +4,7 @@ on** | Managing concurrent their interactions |
 
 The system is divided into four
 ```
-┌──────────────────────────────────────────────┐
-│              System Flow                     │
+┌────────────────────────────────── Flow                     │
 │                                              │
 │  [1] Input Acquisition                       │
 │         ↓                                    │
