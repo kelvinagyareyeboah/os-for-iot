@@ -1,6 +1,6 @@
 on** | Managing concurrent processes and their interactions |
 | 🧩 **Modular De, reusable components with clear separation of - ✅ Apply fundamental **OS con Practice **collaborative developm│ P
-│ I/O Handling         │ Input/output flow control    │
+│ I/O Handling         │ Inlow control    │
 │ Synchronization      │ Concurrent process safety    │
 │ Modularization       │ Component separation         │
 │ Version Control      │ Git-bas
