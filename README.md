@@ -2,9 +2,7 @@ on** | Managing concurrent processes and their interactions |
 | 🧩 **Modular Design** | Independent, reusable components with clear separation of concerns |
 | 🤝 **Collaborative Development** | Vers
 - ✅ Apply fundamental **OS con Practice **collaborative development** with Git, branching, and pull requests
-- ✅ Produce clear 
-│               Core
-├──────────────────────┬──────────────────────────────┤
+- ✅ ├──────────────────────┬──────────────────────────────┤
 │ Process Management   │ Scheduling &
 │ Resource Allocation  │ Dea
 │ I/O Handling         │ Input/output flow control    │
