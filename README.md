@@ -4,8 +4,7 @@ on** | Managing concurrent their interactions |
 
 ## 🏗️ System Architecture
 
-The system is divided into four logical layers :
-
+The system is divided into four
 ```
 ┌──────────────────────────────────────────────┐
 │              System Flow                     │
