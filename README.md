@@ -3,9 +3,7 @@ on** | Managing concurrent processes and their interactions |
 | 🤝 **Collaborative Development** | Version-con via G
 --
 - ✅ Apply fundamental **OS con Practice **collaborative development** with Git, branching, and pull requests
-- ✅ Produce clear documentation suitable for 
-
-## 🧠
+- ✅ Produce clear documentation suit
 
 ```
 ┌─────────────────────────────────────────────────────┐
