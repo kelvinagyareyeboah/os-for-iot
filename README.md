@@ -4,7 +4,7 @@
 | 🤝 **Collaborative Development** | Version-con via G
 --
 - ✅ Apply fundamental **OS concepts** throug- ✅ Practice **collaborative development** with Git, branching, and pull requests
-- ✅ Produce clear documentation suitable for **academic e
+- ✅ Produce clear documentation suitable for 
 
 ## 🧠 OS Concepts Covered
 
