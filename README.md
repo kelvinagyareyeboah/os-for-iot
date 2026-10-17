@@ -2,7 +2,7 @@ on** | Managing concurrent their interactions |
 | 🧩 **Modular De, reusable components with clearndamental **OS con Practice **collaborative d
 │ Modular
 
-## 🏗️ System Architecture
+## 
 
 The system is divided into four
 ```
