@@ -1,7 +1,5 @@
 on** | Managing concurrent processes and their interactions |
-| 🧩 **Modular De, reusable components with clear separation of - ✅ Apply fundamental **OS con Practice **collaborative developmquests
-- ✅ ├──────────────────────┬──────────────────
-│ Process Management   │ Scheduling &
+| 🧩 **Modular De, reusable components with clear separation of - ✅ Apply fundamental **OS con Practice **collaborative developm│ Process Management   │ Scheduling &
 │ Resource Allocation  │ Dea
 │ I/O Handling         │ Input/output flow control    │
 │ Synchronization      │ Concurrent process safety    │
