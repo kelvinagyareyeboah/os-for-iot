@@ -1,8 +1,7 @@
 on** | Managing concurrent their interactions |
 | 🧩 **Modular De, reusable components with clearndamental **OS con Practice **collaborative d
 │ Modularization       │
-│ Version Control  
-└──────────────────────┴───────────
+│ Version 
 
 ## 🏗️ System Architecture
 
