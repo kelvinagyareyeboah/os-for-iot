@@ -1,6 +1,5 @@
 <div align="center">
-
-# 🖥️ Group 44 — Operating Systems Project
+# 🖥️ Group 44 — Operating
 
 [![Academic](https://img.shields.io/badge/Purpose-Academic-blue?style=flat-square)](.)
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)](.)
