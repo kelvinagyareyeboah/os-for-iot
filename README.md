@@ -5,7 +5,7 @@ on** | Managing concurrent processes and their interactions |
 - ✅ Apply fundamental **OS con Practice **collaborative development** with Git, branching, and pull requests
 - ✅ Produce clear documentation suitable for 
 
-## 🧠 OS Concepts Covered
+## 🧠
 
 ```
 ┌─────────────────────────────────────────────────────┐
