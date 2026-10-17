@@ -3,9 +3,7 @@
 | 🧩 **Modular Design** | Independent, reusable components with clear separation of concerns |
 | 🤝 **Collaborative Development** | Version-con via G
 --
-- ✅ Apply fundamental **OS concepts** through h
-- ✅ Design and build a **functional, modular system architecture**
-- ✅ Practice **collaborative development** with Git, branching, and pull requests
+- ✅ Apply fundamental **OS concepts** throug- ✅ Practice **collaborative development** with Git, branching, and pull requests
 - ✅ Produce clear documentation suitable for **academic e
 
 ## 🧠 OS Concepts Covered
