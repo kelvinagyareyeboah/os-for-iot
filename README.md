@@ -10,7 +10,7 @@
 A practical implementation of core Operating Systems concepts, built as a collaborative group ass
 [Overview](#-project-overview) · [Architecture](#-system-architecture) · [Team](#-team-members) · [Docs](#-documenta
 --
-This project applies **Operating Systems theory to a real, working system** — built collaboratively by Group 44 as part of an academic course assignment.
+This project applies **Operating Systems theory to a real, working system** — built collaboratively by Group 44 as part of an academic
 
 The system is designed around three core pillars:
 
