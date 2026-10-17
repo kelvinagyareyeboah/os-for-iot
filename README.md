@@ -1,8 +1,7 @@
 on** | Managing concurrent their interactions |
 | 🧩 **Modular De, reusable components with clearndamental **OS con Practice **collaborat
 ## 
-
-The system is divided into four
+The system is 
 ```
 ┌────────────────────────────────── Flow                     │
 │                                              │
