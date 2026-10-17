@@ -6,7 +6,7 @@ on** | Managing concurrent their interactions |
 
 ## 🏗️ System Architecture
 
-The system is divided into four logical layers that interact sequentially:
+The system is divided into four logical layers :
 
 ```
 ┌──────────────────────────────────────────────┐
