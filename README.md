@@ -3,7 +3,7 @@ on** | Managing concurrent processes and their interactions |
 │ I/O Handling         │ Inlow control    │
 │ Synchronization      │ Concurrefety    │
 │ Modularization       │ Component separation         │
-│ Version Control      │ Git-bas
+│ Version Control  
 └──────────────────────┴──────────────────
 
 ---
