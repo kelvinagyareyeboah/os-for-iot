@@ -1,7 +1,6 @@
 
 
-## 🚧 Challenges &s
-
+## 🚧 
 Building a system-level project as a team came with real obstacles — here's how we 
 | Challenge | Solution |
 |---|---|
