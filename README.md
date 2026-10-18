@@ -2,7 +2,7 @@
 
 -  system meeting irements
 
-- 🟢 Delivered  solution for 
+- 🟢 on for 
 
 ## 🔮 Future Improvements
 
