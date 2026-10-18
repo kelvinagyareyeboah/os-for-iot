@@ -2,7 +2,7 @@
          
 ```
 
-Each component is built to be **independent, reusable, and easy to maintain** — reflecting real-world OS design 
+Each component is built to be easy to maintain** — reflecting real-world OS design 
 ols
 
 | Category | Tool / Technology |
