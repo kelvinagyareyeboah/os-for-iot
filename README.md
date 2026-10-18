@@ -1,7 +1,5 @@
 
-| m  m 
-ementaton |
- |
+| m  
 |  | Consistent use of branches  
 ---
 
