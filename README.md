@@ -1,5 +1,5 @@
 on** | Managing concurrent 
-| 🧩 **Modular  components 
+| 🧩 **Modular  c
 ```
 ┌────────────────────────────────── Flow                     │
 │                                              │
