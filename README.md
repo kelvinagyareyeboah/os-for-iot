@@ -1,6 +1,5 @@
 
 | m  
-|  | Consistent 
 
 - 🟢 Successfully implemented a working system meeting alloject requirements
 - 🟢 ctical understanding of core OS principles
