@@ -5,8 +5,7 @@
 Each component is built to be easy to maintain** — reflecting real-world OS design 
 ols
 
-| Category | Tool / Technology |
-|---|---|
+| Category | Tool 
 | 💻  | *(as specified in the project report)* |
 | 🛠️ Development Environment | *(IDE / compiler used)* |
 | 🗂️ Version Control | Git & GitHub |
