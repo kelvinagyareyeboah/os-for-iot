@@ -1,8 +1,7 @@
 
 
 -  system meeting irements
-- rstanding principles
-- 🟢 
+
 - 🟢 Delivered  solution for academic evaluation
 
 ---
