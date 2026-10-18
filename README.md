@@ -1,7 +1,6 @@
 
 | m  
-|  | Consistent use of branches  
----
+|  | Consistent use 
 
 ## ✅ Results
 
