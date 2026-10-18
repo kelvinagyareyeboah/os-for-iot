@@ -6,8 +6,7 @@ Each  easy ton**
 
 ## 🚧 Challenges & Solutions
 
-Building a system-level project as a team came with real obstacles — here's how we tackled them:
-
+Building a system-level project as a team came with real obstacles — here's how we 
 | Challenge | Solution |
 |---|---|
 | Coordinating work across team members | Clear task division and role assignment from the start |
