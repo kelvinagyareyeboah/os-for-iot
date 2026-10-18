@@ -4,7 +4,7 @@
 
 Each  easy ton** — reflec real-world OS 
  the project report)* |
-| 🛠️ Development Environment | *(IDE / compiler used)* |
+| 🛠️ 
 | 🗂️ Version Control | Git & GitHub |
 | 📝 Documentation | Markdown |
 | 🧠 OS ied | Scheduling, resource management, synchronization |
