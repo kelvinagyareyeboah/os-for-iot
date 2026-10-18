@@ -1,8 +1,7 @@
 
 
 ## 🚧 
-Building a 
-|---|---|
+Building 
 | Coordinating work across team members | Clear task division and role assignment from the start |
 | Applying OS concepts practically | Iterative deresearch-backed implementation |
 | Debugging system-level logic | Structured testing and step-by-step tracing |
