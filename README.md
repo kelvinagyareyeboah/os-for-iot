@@ -5,7 +5,7 @@ Building
 | m  m 
 ementaton |
 ructured  step-by-step tracing |
-| Managing merge conflicts | Consistent use of branches and pull requests 
+| Managing merge conflicts | Consistent use of branches  
 ---
 
 ## ✅ Results
