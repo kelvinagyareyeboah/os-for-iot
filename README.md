@@ -2,7 +2,7 @@
          
 ```
 
-Each component is built to be easy to maintain** — reflecting real-world OS design 
+Each  easy to maintain** — reflec real-world OS design 
 ols
 
 | Category | Tool 
