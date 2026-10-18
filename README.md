@@ -1,7 +1,7 @@
 
 | m  m 
 ementaton |
-ructured  step-by-step tracing |
+ |
 |  | Consistent use of branches  
 ---
 
