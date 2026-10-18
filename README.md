@@ -2,10 +2,7 @@
          
 ```
 
-Each  easy to maintain** — reflec real-world OS design 
-ols
-
-| Category | Tool 
+Each  easy to maintain** — reflec real-world OS 
 | 💻  | *(as specified in the project report)* |
 | 🛠️ Development Environment | *(IDE / compiler used)* |
 | 🗂️ Version Control | Git & GitHub |
