@@ -1,5 +1,5 @@
 
-│         ↓                                     & Monitoring             
+         
 ```
 
 Each component is built to be **independent, reusable, and easy to maintain** — reflecting real-world OS design principles.
