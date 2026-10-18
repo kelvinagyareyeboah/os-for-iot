@@ -6,7 +6,7 @@
 - ⚡ Improve performance 
 - 🔒 handling and 
 - 📈 Enhance systecalability for larger workloads
-- 🧹 Refactor codebase for improved readability and maintainability
+- proved readability and maintainability
 - 🧩 Integrate additional advanced OS features
 
 ---
