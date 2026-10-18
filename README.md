@@ -2,7 +2,7 @@
 | m  m 
 ementaton |
 ructured  step-by-step tracing |
-| Managing merge conflicts | Consistent use of branches  
+|  | Consistent use of branches  
 ---
 
 ## ✅ Results
