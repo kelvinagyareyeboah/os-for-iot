@@ -1,5 +1,5 @@
 on** | Managing concurrent 
-| 🧩 **Modular  components with clearndamental **OS con Practice *
+| 🧩 **Modular  components with clearndamental ctice *
 T
 ```
 ┌────────────────────────────────── Flow                     │
