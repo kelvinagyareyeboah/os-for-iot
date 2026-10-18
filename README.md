@@ -2,7 +2,7 @@
 │                                             
 │  [1]                       │
 │         ↓                                    │
-│  [2] Processing & Coordination               │
+│  [2] Processing &ion               │
 │         ↓                                │
 │                      │
 │         ↓                                    │
