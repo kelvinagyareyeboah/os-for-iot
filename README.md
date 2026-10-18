@@ -3,7 +3,7 @@
 -  system meeting irements
 - rstanding principles
 - 🟢 aceable Git 
-- 🟢 Delivered a fully documented solution for academic evaluation
+- 🟢 Delivered  solution for academic evaluation
 
 ---
 
