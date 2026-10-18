@@ -1,6 +1,5 @@
 on** | Managing concurrent 
-| 🧩 **Modular  components with clearndamental ctice *
-T
+| 🧩 **Modular  components 
 ```
 ┌────────────────────────────────── Flow                     │
 │                                              │
