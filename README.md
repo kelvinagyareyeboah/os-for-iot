@@ -3,8 +3,8 @@
 ```
 
 Each  easy ton** — reflec real-world OS 
- the project report)* |
-| 🛠️ 
+ 
+
 | 🗂️ Version b |
 | 📝 Documentation | Markdown |
 | 🧠 OS ied | Scheduling, resource management, synchronization |
