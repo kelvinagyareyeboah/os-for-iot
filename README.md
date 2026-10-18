@@ -1,8 +1,7 @@
                     │
 │                                             
 │  [1]                       
-│  [2] Processing &i               │
-│         ↓                                │
+
 │                      │
 │         ↓                                    │
 │  [4] System Control & Monitoring             │
