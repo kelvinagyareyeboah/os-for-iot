@@ -4,8 +4,7 @@
 
 Each  easy ton** — reflec real-world 
 
-| 🗂️ Version b rkdown |
-tion |
+
 
 ---
 
