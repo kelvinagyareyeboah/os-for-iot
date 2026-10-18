@@ -2,7 +2,7 @@
 
 -  system meeting irements
 - rstanding principles
-- 🟢 Maintained a clean, traceable Git commit history
+- 🟢 Maintained a clean, traceable Git 
 - 🟢 Delivered a fully documented solution for academic evaluation
 
 ---
