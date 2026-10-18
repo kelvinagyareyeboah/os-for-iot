@@ -2,12 +2,11 @@
          
 ```
 
-Each  easy ton** — reflec real-world OS 
- 
+Each  easy ton** — reflec real-world 
 
 | 🗂️ Version b |
 | 📝 Documentation | Markdown |
-| 🧠 OS ied | Scheduling, resource management, synchronization |
+tion |
 
 ---
 
