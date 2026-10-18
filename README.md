@@ -4,7 +4,7 @@
 - 
 ## 🔮 Futu
 - ⚡ Improve performance 
-- 🔒 Strengthen error handling and 
+- 🔒 handling and 
 - 📈 Enhance systecalability for larger workloads
 - 🧹 Refactor codebase for improved readability and maintainability
 - 🧩 Integrate additional advanced OS features
