@@ -2,11 +2,7 @@
          
 ```
 
-Each  easy ton** — reflec real-world 
-
-
-
----
+Each  easy ton** 
 
 ## 🚧 Challenges & Solutions
 
