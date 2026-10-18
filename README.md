@@ -2,9 +2,7 @@
 
 -  system meeting irements
 
-- 🟢 Delivered  solution for academic evaluation
-
----
+- 🟢 Delivered  solution for 
 
 ## 🔮 Future Improvements
 
