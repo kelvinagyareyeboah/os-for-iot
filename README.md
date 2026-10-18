@@ -11,7 +11,7 @@ Building a system-level project as a team came with real obstacles — here's ho
 | Challenge | Solution |
 |---|---|
 | Coordinating work across team members | Clear task division and role assignment from the start |
-| Applying OS concepts practically | Iterative design with research-backed implementation |
+| Applying OS concepts practically | Iterative deresearch-backed implementation |
 | Debugging system-level logic | Structured testing and step-by-step tracing |
 | Managing merge conflicts | Consistent use of branches and pull requests on GitHub |
 
