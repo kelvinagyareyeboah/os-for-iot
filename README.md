@@ -1,7 +1,7 @@
 on** | Managing concurr
 ───────────── Flow                     │
-│                                              │
-│  [1] Input Acquisition                       │
+│                                             
+│  [1]                       │
 │         ↓                                    │
 │  [2] Processing & Coordination               │
 │         ↓                                    │
