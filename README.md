@@ -1,4 +1,4 @@
-on** | Managing concurrent their interactions |
+on** | Managing concurrent 
 | 🧩 **Modular De, reusable components with clearndamental **OS con Practice *
 T
 ```
