@@ -4,7 +4,7 @@
 Building 
 | m  task dient from 
 | Applyi practically | Iterativementation |
-| Debugging system-level logic | Structured testing and step-by-step tracing |
+| ystevel logic | Structured testing and step-by-step tracing |
 | Managing merge conflicts | Consistent use of branches and pull requests on GitHub |
 
 ---
