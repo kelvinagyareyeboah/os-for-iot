@@ -10,7 +10,7 @@ ols
 | 🛠️ Development Environment | *(IDE / compiler used)* |
 | 🗂️ Version Control | Git & GitHub |
 | 📝 Documentation | Markdown |
-| 🧠 OS Concepts Applied | Scheduling, resource management, synchronization |
+| 🧠 OS ied | Scheduling, resource management, synchronization |
 
 ---
 
