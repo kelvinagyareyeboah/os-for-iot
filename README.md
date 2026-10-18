@@ -7,7 +7,7 @@ ols
 
 | Category | Tool / Technology |
 |---|---|
-| 💻 Programming Language | *(as specified in the project report)* |
+| 💻  | *(as specified in the project report)* |
 | 🛠️ Development Environment | *(IDE / compiler used)* |
 | 🗂️ Version Control | Git & GitHub |
 | 📝 Documentation | Markdown |
