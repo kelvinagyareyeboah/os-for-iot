@@ -10,9 +10,7 @@
 
 Each component is built to be **independent, reusable, and easy to maintain** — reflecting real-world OS design principles.
 
----
-
-## ⚙️ Technologies & Tools
+ols
 
 | Category | Tool / Technology |
 |---|---|
