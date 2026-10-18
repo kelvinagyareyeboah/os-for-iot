@@ -1,5 +1,5 @@
 on** | Managing concurrent 
-| 🧩 **Modular De, reusable components with clearndamental **OS con Practice *
+| 🧩 **Modular  components with clearndamental **OS con Practice *
 T
 ```
 ┌────────────────────────────────── Flow                     │
