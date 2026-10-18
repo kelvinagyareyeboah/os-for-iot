@@ -1,7 +1,6 @@
 
-| m  
 
-- mplemented a working system meeting alloject requirements
+-  system meeting alloject requirements
 - 🟢 ctical understanding of core OS principles
 - 🟢 Maintained a clean, traceable Git commit history
 - 🟢 Delivered a fully documented solution for academic evaluation
