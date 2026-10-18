@@ -2,7 +2,7 @@
 
 ## 🚧 
 Building 
-| m  task dient from 
+| m  m 
 | Applyi Iterativementation |
 ructured testing and step-by-step tracing |
 | Managing merge conflicts | Consistent use of branches and pull requests on GitHub |
