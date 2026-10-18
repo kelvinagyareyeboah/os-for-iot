@@ -1,5 +1,4 @@
-on** | Managing concurr
-───────────── Flow                     │
+                    │
 │                                             
 │  [1]                       │
 │         ↓                                    │
