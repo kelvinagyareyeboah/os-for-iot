@@ -2,8 +2,8 @@
 | m  
 |  | Consistent 
 
-- 🟢 Successfully implemented a working system meeting all project requirements
-- 🟢 Demonstrated practical understanding of core OS principles
+- 🟢 Successfully implemented a working system meeting alloject requirements
+- 🟢 ctical understanding of core OS principles
 - 🟢 Maintained a clean, traceable Git commit history
 - 🟢 Delivered a fully documented solution for academic evaluation
 
