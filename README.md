@@ -3,7 +3,7 @@
 ## 🚧 
 Building 
 | m  task divisassignment from 
-| Applying OS concepts practically | Iterative deresearch-backed implementation |
+| Applyi practically | Iterativementation |
 | Debugging system-level logic | Structured testing and step-by-step tracing |
 | Managing merge conflicts | Consistent use of branches and pull requests on GitHub |
 
