@@ -5,7 +5,7 @@
 Each  easy ton** — reflec real-world OS 
  the project report)* |
 | 🛠️ 
-| 🗂️ Version Control | Git & GitHub |
+| 🗂️ Version b |
 | 📝 Documentation | Markdown |
 | 🧠 OS ied | Scheduling, resource management, synchronization |
 
