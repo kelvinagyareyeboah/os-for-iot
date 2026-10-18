@@ -3,10 +3,9 @@
 ## 🚧 
 Building 
 | m  m 
-| Applyi Iterativementation |
+| Applyi Iterativementaton |
 ructured  step-by-step tracing |
-| Managing merge conflicts | Consistent use of branches and pull requests on GitHub |
-
+| Managing merge conflicts | Consistent use of branches and pull requests 
 ---
 
 ## ✅ Results
