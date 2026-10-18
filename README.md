@@ -1,7 +1,6 @@
 
 │         ↓                                    │
-│  [4] System Control & Monitoring             │
-└──────────────────────────────────────────────┘
+│  [4] System Control & Monitoring             
 ```
 
 Each component is built to be **independent, reusable, and easy to maintain** — reflecting real-world OS design principles.
