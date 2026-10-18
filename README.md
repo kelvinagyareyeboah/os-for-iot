@@ -1,7 +1,7 @@
 
 
 ## 🚧 
-Building a system-level project as a team came with es — here's how we 
+Building a system-level project as a team how we 
 | on |
 |---|---|
 | Coordinating work across team members | Clear task division and role assignment from the start |
