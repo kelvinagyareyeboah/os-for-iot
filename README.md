@@ -2,7 +2,7 @@
 
 ## 🚧 
 Building a system-level project as a team came with real obstacles — here's how we 
-| Challenge | Solution |
+| on |
 |---|---|
 | Coordinating work across team members | Clear task division and role assignment from the start |
 | Applying OS concepts practically | Iterative deresearch-backed implementation |
