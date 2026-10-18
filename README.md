@@ -2,8 +2,8 @@
 
 -  system meeting iremen
 - 
-## 🔮 Future 
-- ⚡ Improve performance and resource efficiency
+## 🔮 Futu
+- ⚡ Improve performance 
 - 🔒 Strengthen error handling and 
 - 📈 Enhance systecalability for larger workloads
 - 🧹 Refactor codebase for improved readability and maintainability
