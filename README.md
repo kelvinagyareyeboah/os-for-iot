@@ -4,8 +4,8 @@
 - 
 ## 🔮 Future 
 - ⚡ Improve performance and resource efficiency
-- 🔒 Strengthen error handling and fault tolerance
-- 📈 Enhance system scalability for larger workloads
+- 🔒 Strengthen error handling and 
+- 📈 Enhance systecalability for larger workloads
 - 🧹 Refactor codebase for improved readability and maintainability
 - 🧩 Integrate additional advanced OS features
 
