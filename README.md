@@ -3,8 +3,8 @@
 │  [1]                       │
 │         ↓                                    │
 │  [2] Processing & Coordination               │
-│         ↓                                    │
-│  [3] Output Generation                       │
+│         ↓                                │
+│                      │
 │         ↓                                    │
 │  [4] System Control & Monitoring             │
 └──────────────────────────────────────────────┘
