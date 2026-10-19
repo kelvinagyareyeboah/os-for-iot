@@ -8,8 +8,7 @@
 - 📈 Enhance systecalabili
 **Group 44**
 
-| Name | Role |
-|---|---|
+| Name | R
 | Member 1 | *(e.g. System Design & Architecture)* |
 | Member 2 | *(e.g. Process Management Implementation)* |
 | Member 3 | *(e.g. I/O Handling & Testing)* |
