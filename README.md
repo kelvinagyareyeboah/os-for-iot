@@ -2,9 +2,8 @@
 
 -  system mee
 
-Full project documentation — including design decisions, test cases, and analysis — is available in the **Project Report** included in this repositor
-
-This project was developed for **academic purposes only** as part of a university
+Full project documentation — including design decisions, test cases, and analysis — is available in the **Project Report** included in this reposito
+This project was developed for **academic purposes only** as part o
 Not intend
 
 <div align="center">
