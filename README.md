@@ -6,7 +6,7 @@
 - ⚡ Improve performance | Member 3
 | Member 4 | *(e.g. Documentation & R)* |
 
-> 📝 Update the table above with actual names and roles before submission.
+> 📝 Update the table above with actual before submission.
 
 ---
 
