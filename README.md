@@ -5,10 +5,7 @@
 ## 🔮 Futu
 - ⚡ Improve performance 
 - 🔒 handling and 
-- 📈 Enhance systecalability 
-- prov
-## 👥 Te
-
+- 📈 Enhance systecalabili
 **Group 44**
 
 | Name | Role |
