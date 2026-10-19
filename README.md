@@ -15,6 +15,5 @@ Not intended for commercial use or redistribution.
 
 <div align="center">
 
-*Group 44 · Operating Systems · Academic Project*
-
+*Group 44 · Operating Systems · Academic Projec
 </div>
