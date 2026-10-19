@@ -7,7 +7,7 @@
 - 🔒 handling and 
 - 📈 Enhance systecalability 
 - proved readability and maintality
-- 🧩 Integ
+  
 
 ## 👥 Team Members
 
