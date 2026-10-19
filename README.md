@@ -1,2 +1,2 @@
 
-Full project documentan — including design decisionvailablin the **Project ort** included
+Full project documentan — including design decisionvailablin the **Project ort**
