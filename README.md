@@ -4,7 +4,7 @@
 - 
 ## 🔮 Futu
 - ⚡ Improve performance | Member 3
-| Member 4 | *(e.g. Documentation & R)* |
+| Member 4 | *(e.g. Document
 
 > 📝 Update the table above with actual before submission.
 
