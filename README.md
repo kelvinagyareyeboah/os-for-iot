@@ -7,7 +7,7 @@
 - 🔒 ha
 
 | Nam| Member 2 | *(e.g. Process Management Implementation)* |
-| Member 3 | *(e.g. I/O Hand
+| Member 3
 | Member 4 | *(e.g. Documentation & Report Writing)* |
 
 > 📝 Update the table above with actual names and roles before submission.
