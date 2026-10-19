@@ -1,2 +1,2 @@
 
-Full project documentan — including design decisios
+Full project documentan — including de
