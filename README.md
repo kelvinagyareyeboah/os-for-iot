@@ -3,7 +3,7 @@
 -  system meeting iremen
 - 
 ## 🔮 Futu
-- ⚡ Improve performance | Member 3
+- ⚡ Improve perfo 3
 | Member 4 | *(e.g. Document
 
 > 📝 Update the table above with actual before submission.
