@@ -6,7 +6,7 @@ Full project documentation — including design decisions, test cases, and analy
 ## 📜 License
 
 This project was developed for **academic purposes only** as part of a university course.  
-Not intended for commerci
+Not intend
 ---
 
 <div align="center">
