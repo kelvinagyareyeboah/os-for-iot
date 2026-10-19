@@ -4,7 +4,7 @@
 
 Full project documentation — including design decisions, test cases, and analysis — is available in the **Project Report** included in this repositor
 
-This project was developed for **academic purposes only** as part of a university course.  
+This project was developed for **academic purposes only** as part of a university
 Not intend
 
 <div align="center">
