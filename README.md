@@ -4,9 +4,7 @@
 - 
 ## 🔮 Futu
 - ⚡ Improve performance 
-- 🔒 handling and 
-- 📈 Enhance systecalabili
-**Group 44**
+- 🔒 handlin**Group 44**
 
 | Name | R
 | Member 1 | *(e.g. System tecture)* |
