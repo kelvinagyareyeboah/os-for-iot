@@ -5,7 +5,7 @@
 ## 🔮 Futu
 - ⚡ Improve performance 
 - 🔒 handling and 
-- 📈 Enhance systecalability for larger workloads
+- 📈 Enhance systecalability 
 - proved readability and maintality
 - 🧩 Integ
 
