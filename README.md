@@ -2,8 +2,7 @@
 
 -  system meeting iremen
 - 
-## 🔮 Futu
-- ⚡ Imp
+##
 | 
 
 Full project documentation — including design decisions, test cases, and analysis — is available in the **Project Report** included in this repository.
