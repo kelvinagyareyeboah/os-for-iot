@@ -4,7 +4,7 @@
 - 
 ## 🔮 Futu
 - ⚡ Imp
-| Member 4 | *(e.g. Document
+| Memb
 
 > 📝 Update the table above with actual before submission.
 
