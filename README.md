@@ -6,7 +6,7 @@
 - ⚡ Improve performance 
 - 🔒 handling and 
 - 📈 Enhance systecalability for larger workloads
-- proved readability and maintainability
+- proved readability and maintality
 - 🧩 Integrate additional advanced OS features
 
 ---
