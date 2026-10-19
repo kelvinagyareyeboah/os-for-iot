@@ -1,2 +1,2 @@
 
-Full project documentan — including design decisionvailablin the **
+Full project documentan — including design decisios
