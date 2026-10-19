@@ -9,7 +9,7 @@
 **Group 44**
 
 | Name | R
-| Member 1 | *(e.g. System Design & Architecture)* |
+| Member 1 | *(e.g. System tecture)* |
 | Member 2 | *(e.g. Process Management Implementation)* |
 | Member 3 | *(e.g. I/O Handling & Testing)* |
 | Member 4 | *(e.g. Documentation & Report Writing)* |
