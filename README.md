@@ -1,2 +1,2 @@
 
-Full project documentan — including de
+Full project document
