@@ -4,7 +4,7 @@
 - 
 ## 🔮 Futu
 - ⚡ Improve performance | Member 3
-| Member 4 | *(e.g. Documentation & Report Writing)* |
+| Member 4 | *(e.g. Documentation & R)* |
 
 > 📝 Update the table above with actual names and roles before submission.
 
