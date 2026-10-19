@@ -6,7 +6,7 @@
 - ⚡ Improve performance 
 - 🔒 handling and 
 - 📈 Enhance systecalability 
-- proved readability and maintality
+- proved readability 
   
 
 ## 👥 Team Members
